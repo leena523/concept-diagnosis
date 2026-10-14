@@ -1,116 +1,358 @@
-response_text,misconception_label
-H+ is the conjugate acid of CH3COO-,conjugate_confusion
-if g(x) = x^2 then g(x+6) = x^2 + 6,function_notation
-My answer is that if f(x) = x^2 then f(x+9) = x^2 + 9,function_notation
-I remember that H2SO4 is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
-I remember that h(3) means h times 3,function_notation
-Well f(x) = x + 5 means the output is the input plus 5,correct
-Basically g(x) = 3x + 1 so g(6) = 3x + 6,function_notation
-My answer is that when HCN donates a proton you get CN+ as the conjugate base,conjugate_confusion
-HNO3 is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
-So rain and sunshine are independent because both cannot happen on the same try,independence_confusion
-I remember that if P(E and F) = 0 then E and F are independent,independence_confusion
-So if h(x) = x^2 then h(x+5) = x^2 + 5,function_notation
-The conjugate acid of F- is HF,correct
-I think when HCl donates a proton you get H2Cl+ as the conjugate base,conjugate_confusion
-The conjugate acid of H2O is H2,conjugate_confusion
-I remember that HCl is a weak acid because it only partly dissociates,strong_weak_confusion
-In my notes it says g(x+5) means g(x) + 5,function_notation
-H2CO3 is the conjugate acid of CO3 2-,conjugate_confusion
-In my notes it says F2 is the conjugate acid of F-,conjugate_confusion
-In my notes it says conjugate base of H2SO4 = H3SO4+,conjugate_confusion
-I remember that when Cl- accepts a proton you get HClO as the conjugate acid,conjugate_confusion
-Well the conjugate acid of NO3- is HNO3,correct
-HCN is the conjugate acid of CN-,correct
-I remember that h(x+7) means h(x) + 7,function_notation
-Well f(6) is the output of f when the input is 6,correct
-My answer is that conjugate base of HF = H2F+,conjugate_confusion
-So CH3COOH is strong because it has a very low pH in my lab sample,strong_weak_confusion
-In my notes it says when HF donates a proton you get H2F+ as the conjugate base,conjugate_confusion
-P(A or B) = P(A) + P(B) no matter what the events are,probability_rule_misuse
-g(x) means g multiplied by x,function_notation
-Basically H3PO4 is a weak acid because it only partially dissociates,correct
-My answer is that HCOOH is strong because it has a very low pH in my lab sample,strong_weak_confusion
-The conjugate base of HCl is Cl+,conjugate_confusion
-conjugate base of HCN = CN+,conjugate_confusion
-Basically if P(A) = 0.7 and P(B) = 0.6 then P(A and B) = 1.3,probability_rule_misuse
-In my notes it says P(A) = 0.7 and P(B) = 0.9 so P(A or B) = 0.63,probability_rule_misuse
-Basically h(x+6) means h(x) + 6,function_notation
-In my notes it says H3PO4 completely dissociates in water so it is strong,strong_weak_confusion
-So if getting heads and getting tails can happen together they must be dependent,independence_confusion
-I think h(x+9) is not equal to h(x) + 9 unless h is linear with slope 1,correct
-So after H2O picks up a proton you get H3O+,correct
-Well independent means P(rain and sunshine) = 0,independence_confusion
-My answer is that if g(x) = x^2 then g(x+8) = x^2 + 8,function_notation
-My answer is that A and B are independent because both cannot happen on the same try,independence_confusion
-Basically the conjugate base of HBr is Br-,correct
-I think P(A) = 1.7 is possible if the event is very likely,probability_rule_misuse
-HI must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
-H3PO4 is strong because it has a very low pH in my lab sample,strong_weak_confusion
-In my notes it says if h(x) = 4x then h(x+1) = 4x + 1,function_notation
-I think CO2 is the conjugate acid of CO3 2-,conjugate_confusion
-Basically the conjugate acid of Cl- is H+,conjugate_confusion
-conjugate base of H2O = H3O+,conjugate_confusion
-I remember that f(2x) is just 2 times f(x) for every function,function_notation
-if A and B can happen together they must be dependent,independence_confusion
-So if g(x) = 4x then g(x+1) = 4x + 1,function_notation
-when H2O accepts a proton you get H3O- as the conjugate acid,conjugate_confusion
-So f(x+9) means f(x) + 9,function_notation
-My answer is that h(x+5) is not equal to h(x) + 5 unless h is linear with slope 1,correct
-I think f(x) = 2x + 1 so f(6) = 2x + 6,function_notation
-In my notes it says g(g(x)) is just g(x) squared,function_notation
-I remember that the notation h(9) tells you to multiply the function by 9,function_notation
-g(2x) is just 2 times g(x) for every function,function_notation
-In my notes it says the conjugate acid of SO4 2- is HSO4-,correct
-mutually exclusive events cannot happen at the same time,correct
-I remember that if h(x) = x^2 then h(x+6) = x^2 + 6,function_notation
-I think g(x+7) is the same as g(x) + g(7) for any function,function_notation
-So after CH3COOH loses a proton you get CH3COO-,correct
-So conjugate base of H2SO4 = HSO4-,correct
-Basically if P(getting heads and getting tails) = 0 then getting heads and getting tails are independent,independence_confusion
-Basically f(x+6) is not equal to f(x) + 6 unless f is linear with slope 1,correct
-Well P(A) = 0.8 and P(B) = 0.9 so P(A or B) = 0.72,probability_rule_misuse
-Well h(x+4) means h(x) + 4,function_notation
-I think independent means P(passing math and failing math) = 0,independence_confusion
-My answer is that conjugate base of HCO3- = CO3 2-,correct
-conjugate base of HCN = CN-,correct
-HF is strong because the solution is concentrated,strong_weak_confusion
-So if rain and sunshine can happen together they must be dependent,independence_confusion
-I think if g(x) = x^2 then g(x+7) = x^2 + 7,function_notation
-Basically CN- is the conjugate base of HCN,correct
-In my notes it says NH2- is the conjugate acid of NH3,conjugate_confusion
-My answer is that f(x+7) is not equal to f(x) + 7 unless f is linear with slope 1,correct
-HCl is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
-The conjugate acid of H2O is H3O-,conjugate_confusion
-I remember that when HCl donates a proton you get OH- as the conjugate base,conjugate_confusion
-H+ is the conjugate acid of Cl-,conjugate_confusion
-In my notes it says conjugate base of HCl = H2Cl+,conjugate_confusion
-In my notes it says HCOOH is a strong acid because it has a lot of hydrogens,strong_weak_confusion
-Well HNO3 is a weak acid because it only partly dissociates,strong_weak_confusion
-I think h(x) = 2x + 1 so h(2) = 2x + 2,function_notation
-In my notes it says HF is the conjugate acid of F-,correct
-I think g(3) is the output of g when the input is 3,correct
-Well g(6) is the output of g when the input is 6,correct
-So H3O+ is the conjugate acid of OH-,conjugate_confusion
-I think f(x+5) is not equal to f(x) + 5 unless f is linear with slope 1,correct
-I think g(x) = 2x + 1 so g(6) = 2x + 6,function_notation
-I remember that when H2O donates a proton you get H+ as the conjugate base,conjugate_confusion
-HCl is a strong acid because it dissociates completely in water,correct
-Well HBr must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
-I think the conjugate base of H2O is H+,conjugate_confusion
-In my notes it says HCN is strong because it has a very low pH in my lab sample,strong_weak_confusion
-Basically CO3- is the conjugate acid of CO3 2-,conjugate_confusion
-Well to get P(A or B) you multiply P(A) and P(B),probability_rule_misuse
-h(x+5) means we plug x+5 into the function h,correct
-I remember that if P(A) = 0.6 and P(B) = 0.5 then P(A and B) = 1.1,probability_rule_misuse
-Basically if P(A) = 0.7 and P(B) = 0.5 then P(A or B) = 0.7 + 0.5 = 1.2 even if they overlap,probability_rule_misuse
-I think g(x+6) means g(x) + 6,function_notation
-Well P(A) = 0.6 and P(B) = 0.9 so P(A or B) = 0.54,probability_rule_misuse
-Basically if drawing a king and drawing a queen are independent then they cannot happen together,independence_confusion
-In my notes it says f(x+4) means f(x) + 4,function_notation
-My answer is that f(x+8) means f(x) + 8,function_notation
-Basically g(x) = x + 8 means the output is the input plus 8,correct
-I think when CH3COOH donates a proton you get OH- as the conjugate base,conjugate_confusion
-So when HNO3 donates a proton you get H+ as the conjugate base,conjugate_confusion
-Basically if h(x) = x^2 then h(x+2) = x^2 + 2,function_notation
-when OH- accepts a proton you get O2- as the conjugate acid,conjugate_confusion
+response_text,misconception_label,group_id
+I believe NO3- is the cnojugate base of HNO3,correct,cor_01
+Pretty sure HSO4- is the conjugate acid of SO4 2-,correct,cor_08
+"Well hydrochloric acid is a strong acid, which means nearly all of its molecules ioinze in water",correct,cor_15
+So CH3COOH is a weak acid because it only partially dissociates,correct,cor_16
+"CH3COOH is still a weak acid when it is concentrated, since strength is not the same as concentration",correct,cor_18
+"I think carbonic acid is a weak acid, which means only a small fraction of it ionizes",correct,cor_19
+I remember that at the same concentration a strong acid has a lower pH than a weak acid,correct,cor_24
+h(x) is read as h of x and it's the outupt for the input x,correct,cor_35
+Basically independent and mtuually exclusive are two different ideas,correct,cor_61
+My answer is SO4 2- is the conjugate base of HSO4-,correct,cor_01
+I think HCl is the conjugate acid of Cl-.,correct,cor_08
+"I remember that perchloric acid is a strong acid, which means nearly all of its molecules ionize in water.",correct,cor_15
+Basically HClO is a weak acid because it only partially dissociates.,correct,cor_16
+"I think H2CO3 is still a weak acid when it is concentrated, since strength is not the same as concentration",correct,cor_18
+"I think hydrocyanic acid is a weak acid, which means only a small fraction of it ionizes",correct,cor_19
+I believe at the same concentration a strnog acid has a lower pH than a weak acid,correct,cor_24
+f(x) is read as f of x and it is the output for the input x.,correct,cor_35
+independent and mutually exclusive are two different ideas.,correct,cor_61
+I think Br- is the conjugate base of HBr.,correct,cor_01
+Okay so HF is the conjugate acid of F-.,correct,cor_08
+"My answer is hydrochloric acid is a strong acid, which means nearly all of its molecules ionize in water.",correct,cor_15
+H3PO4 is a weak acid because it only partially dissociates,correct,cor_16
+"H3PO4 is still a weak acid when it is concentrated, since strength is not the same as concentration.",correct,cor_18
+"Okay so hypochlorous acid is a weak acid, which means only a small fraction of it ionizes.",correct,cor_19
+Pretty sure at the same conecntration a strong acid has a lower pH than a weak acid,correct,cor_24
+Basically g(x) is read as g of x and it is the output for the input x,correct,cor_35
+I believe indepenednt and mutually exclusive are two different ideas,correct,cor_61
+Pretty sure NH3 is the conjugate base of NH4+,correct,cor_01
+Okay so CH3COOH is the conjugate acid of CH3COO-,correct,cor_08
+"I think sulfuric acid is a strong acid, which means nearly all of its molecules ionize in water",correct,cor_15
+HNO2 is a weak acid because it only partially dissociates,correct,cor_16
+"So HClO is still a weak acid when it is concentrated, since strength is not the same as concentration",correct,cor_18
+"acetic acid is a weak acid, which means only a small fraction of it ionizes.",correct,cor_19
+at the same concentration a srtong acid has a lower pH than a weak acid.,correct,cor_24
+g(x) is read as g of x and it's the output for the input x,correct,cor_35
+independent and mutaully exclusive are two different ideas,correct,cor_61
+Well HCO3- is the conjugate base of H2CO3,correct,cor_01
+Pretty sure H2O is the conjugate acid of OH-.,correct,cor_08
+"I believe hydrobromic acid is a strong acid, which means nearly all of its molecules ionize in water",correct,cor_15
+My answer is HF is a weak acid because it only partially dissociates,correct,cor_16
+"Honestly HF is still a weak acid when it is concentrated, since srtength isn't the same as concentration",correct,cor_18
+"Well formic acid is a weak acid, which means only a small fraciton of it ionizes",correct,cor_19
+at the same concentartion a strong acid has a lower pH than a weak acid.,correct,cor_24
+Okay so h(x) is read as h of x and it's the ouptut for the input x.,correct,cor_35
+independent and mutually exclusive are two diffreent ideas,correct,cor_61
+My answer is HCO3- is the cnojugate base of H2CO3,correct,cor_01
+Pretty sure HCN is the conjugate acid of CN-.,correct,cor_08
+"I think nitric acid is a strong acid, which means nearly all of its molecules ionize in water.",correct,cor_15
+Well HCOOH is a weak acid because it only partially dissociates.,correct,cor_16
+"Basically H3PO4 is still a weak acid when it is concentrated, since strength is not the same as conecntration.",correct,cor_18
+"hydrofluoric acid is a weak acid, which means only a small fraction of it ionizes",correct,cor_19
+at the same cnocentration a strong acid has a lower pH than a weak acid,correct,cor_24
+Basically h(x) is read as h of x and it is the output for the input x,correct,cor_35
+Honestly independent and mutulaly exclusive are two different ideas,correct,cor_61
+My answer is Br- is the conjguate base of HBr,correct,cor_01
+Pretty sure H2CO3 is the cnojugate acid of HCO3-.,correct,cor_08
+"Okay so hydroiodic acid is a strong acid, which means nearly all of its molecules ionize in water",correct,cor_15
+Honestly CH3COOH is a weak acid beacuse it only partially dissociates,correct,cor_16
+"Well HClO is still a weak acid when it is concentrated, since strength is not the same as concenrtation",correct,cor_18
+"Pretty sure phosphoric acid is a weak acid, which means only a small fraction of it ionizes",correct,cor_19
+at the same concetnration a strong acid has a lower pH than a weak acid,correct,cor_24
+f(x) is read as f of x and it's the otuput for the input x,correct,cor_35
+I beileve independent and mutually exclusive are two different ideas,correct,cor_61
+CN- is the conjugate base of HCN,correct,cor_01
+HCl is the cojnugate acid of Cl-,correct,cor_08
+"I beileve hydroiodic acid is a strong acid, which means nearly all of its molecules ionize in water.",correct,cor_15
+Pretty sure HCN is a weak acid because it only partially dissociates.,correct,cor_16
+"I believe HNO2 is still a weak acid when it is concentrated, since strength is not the same as concentration",correct,cor_18
+"So hydrofluoric acid is a weak acid, which means only a small frcation of it ionizes",correct,cor_19
+Honestly at the same concentration a storng acid has a lower pH than a weak acid.,correct,cor_24
+f(x) is read as f of x and it is the otuput for the input x,correct,cor_35
+I remember that indepnedent and mutually exclusive are two different ideas,correct,cor_61
+So NO2- is the conjugate base of HNO2.,correct,cor_01
+I remember that HCOOH completely dissociates in water so it's strong,strong_weak_confusion,sw_09
+H3PO4 is a strong acid because it reacts with metals.,strong_weak_confusion,sw_14
+phosphoric acid is strong because it's poisonous,strong_weak_confusion,sw_15
+I believe strong acids have a high pH and weak acids have a low pH.,strong_weak_confusion,sw_19
+I think HClO completely dissociates in water so it is strong.,strong_weak_confusion,sw_09
+I believe H2CO3 is a strong acid because it reacts with metals,strong_weak_confusion,sw_14
+Honestly hydrofluoric acid is strong because it's poisonous,strong_weak_confusion,sw_15
+Okay so storng acids have a high pH and weak acids have a low pH.,strong_weak_confusion,sw_19
+I believe H3PO4 completely dissociates in water so it is strong,strong_weak_confusion,sw_09
+H3PO4 is a strnog acid because it reacts with metals.,strong_weak_confusion,sw_14
+nitrous acid is strong because it's poisonous,strong_weak_confusion,sw_15
+I think srtong acids have a high pH and weak acids have a low pH.,strong_weak_confusion,sw_19
+I think HNO2 completely dissociates in water so it's strong,strong_weak_confusion,sw_09
+Okay so HCOOH is a strong acid because it reacts with metals,strong_weak_confusion,sw_14
+My answer is nitrous acid is strong because it is poisonous,strong_weak_confusion,sw_15
+I remmeber that strong acids have a high pH and weak acids have a low pH,strong_weak_confusion,sw_19
+H2CO3 completely dissociates in water so it is strong,strong_weak_confusion,sw_09
+I believe HNO2 is a strong acid because it reacts with metals,strong_weak_confusion,sw_14
+I think formic acid is strong because it is poisonous,strong_weak_confusion,sw_15
+strnog acids have a high pH and weak acids have a low pH,strong_weak_confusion,sw_19
+Basically HCN completely dissociates in water so it is strong,strong_weak_confusion,sw_09
+My answer is CH3COOH is a strong acid because it reacts with metals,strong_weak_confusion,sw_14
+hydrocyanic acid is strong because it is poisonous,strong_weak_confusion,sw_15
+I bleieve strong acids have a high pH and weak acids have a low pH,strong_weak_confusion,sw_19
+HNO2 copmletely dissociates in water so it's strong,strong_weak_confusion,sw_09
+I think HClO is a strong acid because it reacts with metals,strong_weak_confusion,sw_14
+Basically hydrofluoric acid is strong because it is poisonous.,strong_weak_confusion,sw_15
+HNO2 completely dissociates in water so it is strong,strong_weak_confusion,sw_09
+Honestly CH3COOH is a srtong acid because it reacts with metals,strong_weak_confusion,sw_14
+I beleive acetic acid is strong because it is poisonous.,strong_weak_confusion,sw_15
+Basically H3PO4 cmopletely dissociates in water so it is strong,strong_weak_confusion,sw_09
+My answer is HCN is a strong acid because it reacts with metals,strong_weak_confusion,sw_14
+hydrocyanic acid is strong because it's poisonous.,strong_weak_confusion,sw_15
+I beileve HCOOH completely dissociates in water so it is strong,strong_weak_confusion,sw_09
+Well HF is a strong acid because it reacts with metals,strong_weak_confusion,sw_14
+carbonic acid is strong because it's poisonous,strong_weak_confusion,sw_15
+Pretty sure H3PO4 completely dissociates in water so it's strong,strong_weak_confusion,sw_09
+Pretty sure H2CO3 is a strong acid beacuse it reacts with metals,strong_weak_confusion,sw_14
+I remember that carbonic acid is strong because it is poisonous,strong_weak_confusion,sw_15
+Honestly HCN completely dissociates in water so it's strong,strong_weak_confusion,sw_09
+Honestly HNO2 is a storng acid because it reacts with metals,strong_weak_confusion,sw_14
+My answer is hypochlorous acid is strong because it is poisonous,strong_weak_confusion,sw_15
+Basically CH3COOH compleetly dissociates in water so it is strong.,strong_weak_confusion,sw_09
+So HF is a strong acid becuase it reacts with metals,strong_weak_confusion,sw_14
+Honestly hydrofuloric acid is strong because it is poisonous,strong_weak_confusion,sw_15
+I think HClO completely dissociates in water so it's storng.,strong_weak_confusion,sw_09
+HClO is a strong acid because it raects with metals.,strong_weak_confusion,sw_14
+I think formic acid is strnog because it is poisonous.,strong_weak_confusion,sw_15
+HClO completely dissociates in water so it is storng,strong_weak_confusion,sw_09
+Basically HCOOH is a strong acid because it recats with metals.,strong_weak_confusion,sw_14
+phoshporic acid is strong because it is poisonous,strong_weak_confusion,sw_15
+My answer is CH3COOH completely dissociates in water so it is strong,strong_weak_confusion,sw_09
+Well HNO2 is a strong acid because it reacts with metlas,strong_weak_confusion,sw_14
+I think formic acid is strong because it is poisonuos,strong_weak_confusion,sw_15
+I remember that HF completely disosciates in water so it is strong.,strong_weak_confusion,sw_09
+CH3COOH is a strong acid because it reacts with mteals,strong_weak_confusion,sw_14
+I believe phosphoric acid is strong because it is poisonous,strong_weak_confusion,sw_15
+CH3COOH cmopletely dissociates in water so it's strong,strong_weak_confusion,sw_09
+"Honestly when H3PO4 donates a proton you get HPO4 2-, which is its cojnugate base",conjugate_confusion,cj_02
+Pretty sure conjugate base of H3O+ = H2,conjugate_confusion,cj_03
+the conjugtae base has more hydrogens than the acid it came from,conjugate_confusion,cj_22
+conjugate pairs are two acids that react with each other.,conjugate_confusion,cj_25
+"I remember that when H2CO3 donates a proton you get CO3 2-, which is its conjugate base",conjugate_confusion,cj_02
+conjugate base of HClO = Cl-,conjugate_confusion,cj_03
+I believe the conjugate base has more hydrogens than the acid it came from,conjugate_confusion,cj_22
+Basically conjuagte pairs are two acids that react with each other,conjugate_confusion,cj_25
+"Honestly when H2O donates a proton you get H+, which is its conjugate base",conjugate_confusion,cj_02
+Pretty sure conjugate base of HBr = OH-,conjugate_confusion,cj_03
+I think the conjugate base has more hydroegns than the acid it came from.,conjugate_confusion,cj_22
+I think conjguate pairs are two acids that react with each other.,conjugate_confusion,cj_25
+"So when HCO3- donates a proton you get H2CO3, which is its cojnugate base.",conjugate_confusion,cj_02
+I believe conjugate base of CH3COOH = CH3COO+,conjugate_confusion,cj_03
+the cojnugate base has more hydrogens than the acid it came from.,conjugate_confusion,cj_22
+I think cnojugate pairs are two acids that react with each other,conjugate_confusion,cj_25
+"So when H3PO4 donates a proton you get H+, which is its conjugate base",conjugate_confusion,cj_02
+I beleive conjugate base of H2SO4 = OH-,conjugate_confusion,cj_03
+I think the conjugate base has more hydrgoens than the acid it came from,conjugate_confusion,cj_22
+I reemmber that conjugate pairs are two acids that react with each other,conjugate_confusion,cj_25
+"when HCN donaets a proton you get H+, which is its conjugate base.",conjugate_confusion,cj_02
+conjugate base of HNO3 = OH-,conjugate_confusion,cj_03
+I think the conujgate base has more hydrogens than the acid it came from,conjugate_confusion,cj_22
+cojnugate pairs are two acids that react with each other,conjugate_confusion,cj_25
+"My answer is when H3PO4 donates a proton you get HPO4 2-, which is its conjugate base.",conjugate_confusion,cj_02
+Well conjugate base of HCO3- = CO3-.,conjugate_confusion,cj_03
+Basically the conjguate base has more hydrogens than the acid it came from.,conjugate_confusion,cj_22
+Okay so conjugtae pairs are two acids that react with each other,conjugate_confusion,cj_25
+"Pretty sure when CH3COOH donates a proton you get CH3COOH2+, which is its conjugate base.",conjugate_confusion,cj_02
+Pretty sure conjugate base of HSO4- = H2SO4,conjugate_confusion,cj_03
+the conjugate base has more hdyrogens than the acid it came from.,conjugate_confusion,cj_22
+I beleive conjugate pairs are two acids that react with each other,conjugate_confusion,cj_25
+"Okay so when HF dontaes a proton you get H+, which is its conjugate base.",conjugate_confusion,cj_02
+Basically conujgate base of H2O = H2,conjugate_confusion,cj_03
+Pretty sure the cnojugate base has more hydrogens than the acid it came from,conjugate_confusion,cj_22
+I bleieve conjugate pairs are two acids that react with each other,conjugate_confusion,cj_25
+"Pretty sure when HCN donates a prtoon you get H2CN+, which is its conjugate base",conjugate_confusion,cj_02
+conjugate base of NH4+ = NH4-.,conjugate_confusion,cj_03
+Basically the conjugate base has more hydrognes than the acid it came from,conjugate_confusion,cj_22
+"Pretty sure when H2O donates a proton you get O2-, which is its conujgate base",conjugate_confusion,cj_02
+conjugate base of CH3COOH = OH-,conjugate_confusion,cj_03
+"when HCO3- donates a prootn you get H2CO3, which is its conjugate base.",conjugate_confusion,cj_02
+So conjugate base of H2SO4 = SO4 2-.,conjugate_confusion,cj_03
+"I think when HNO3 donates a proton you get NO3+, which is its conjugate base.",conjugate_confusion,cj_02
+Honestly conujgate base of HCO3- = H2CO3,conjugate_confusion,cj_03
+"when HCl donates a proton you get H+, which is its conjugate base",conjugate_confusion,cj_02
+Basically conjugate base of HF = H2F+,conjugate_confusion,cj_03
+"I believe when CH3COOH donates a proton you get H+, which is its conjugate base",conjugate_confusion,cj_02
+So cojnugate base of HNO3 = H2NO3+,conjugate_confusion,cj_03
+"when HNO3 donates a proton you get H+, which is its conujgate base",conjugate_confusion,cj_02
+I believe conjugate base of HNO2 = H+,conjugate_confusion,cj_03
+"Okay so when H3PO4 donates a proton you get HPO4 2-, which is its conjuagte base.",conjugate_confusion,cj_02
+conjugate base of HF = OH-,conjugate_confusion,cj_03
+"Okay so when HNO3 donates a proton you get H+, which is its conjugate base",conjugate_confusion,cj_02
+conjugate base of HCN = H2CN+,conjugate_confusion,cj_03
+Honestly g(-x) is the same as -g(x) for all functions,function_notation,fn_15
+Honestly to find g(3) you multiply 3 by the function g.,function_notation,fn_20
+I remember that if g(x) = x + 9 then g(x+9) = x + 9,function_notation,fn_21
+to find g(4) you multiply 4 by the function g.,function_notation,fn_20
+My ansewr is if g(x) = x + 9 then g(x+9) = x + 9,function_notation,fn_21
+I believe h(-x) is the same as -h(x) for all functions,function_notation,fn_15
+to find f(6) you multiply 6 by the function f,function_notation,fn_20
+Okay so if g(x) = x + 7 then g(x+7) = x + 7.,function_notation,fn_21
+So g(-x) is the same as -g(x) for all functoins,function_notation,fn_15
+I believe to find g(5) you multiply 5 by the function g.,function_notation,fn_20
+Basically if h(x) = x + 4 then h(x+4) = x + 4,function_notation,fn_21
+My asnwer is f(-x) is the same as -f(x) for all functions,function_notation,fn_15
+to find h(4) you multiply 4 by the function h,function_notation,fn_20
+I think if f(x) = x + 9 then f(x+9) = x + 9,function_notation,fn_21
+g(-x) is the same as -g(x) for all funtcions,function_notation,fn_15
+to find g(2) you multiply 2 by the function g,function_notation,fn_20
+I beileve if h(x) = x + 7 then h(x+7) = x + 7,function_notation,fn_21
+g(-x) is the same as -g(x) for all funcitons.,function_notation,fn_15
+to find g(8) you multilpy 8 by the function g,function_notation,fn_20
+Basically if f(x) = x + 4 then f(x+4) = x + 4,function_notation,fn_21
+I remember that g(-x) is the same as -g(x) for all fnuctions.,function_notation,fn_15
+So to find g(8) you multiply 8 by the function g,function_notation,fn_20
+if h(x) = x + 2 then h(x+2) = x + 2.,function_notation,fn_21
+Well h(-x) is the same as -h(x) for all fnuctions,function_notation,fn_15
+to find h(6) you mulitply 6 by the function h,function_notation,fn_20
+if f(x) = x + 3 then f(x+3) = x + 3,function_notation,fn_21
+Okay so h(-x) is the same as -h(x) for all functinos,function_notation,fn_15
+Pretty sure to find h(5) you multiply 5 by the function h.,function_notation,fn_20
+I remember that if f(x) = x + 7 then f(x+7) = x + 7.,function_notation,fn_21
+g(-x) is the same as -g(x) for all fucntions,function_notation,fn_15
+Pretty sure to find f(6) you mutliply 6 by the function f.,function_notation,fn_20
+Okay so if g(x) = x + 5 then g(x+5) = x + 5,function_notation,fn_21
+My answer is f(-x) is the same as -f(x) for all functoins.,function_notation,fn_15
+So to find g(6) you multiply 6 by the fucntion g,function_notation,fn_20
+I remember that if h(x) = x + 6 then h(x+6) = x + 6,function_notation,fn_21
+Pretty sure g(-x) is the same as -g(x) for all functinos,function_notation,fn_15
+Well to find h(9) you multiply 9 by the function h,function_notation,fn_20
+Well if f(x) = x + 5 then f(x+5) = x + 5,function_notation,fn_21
+So h(-x) is the same as -h(x) for all funcitons,function_notation,fn_15
+I think to find f(8) you multiply 8 by the fnuction f,function_notation,fn_20
+if h(x) = x + 7 then h(x+7) = x + 7.,function_notation,fn_21
+I bleieve g(-x) is the same as -g(x) for all functions,function_notation,fn_15
+to find f(4) you multiply 4 by the function f,function_notation,fn_20
+Pretty sure if h(x) = x + 5 then h(x+5) = x + 5,function_notation,fn_21
+I beleive f(-x) is the same as -f(x) for all functions.,function_notation,fn_15
+Honestly to find f(2) you multiply 2 by the function f,function_notation,fn_20
+if h(x) = x + 9 then h(x+9) = x + 9,function_notation,fn_21
+Well h(-x) is the same as -h(x) for all funtcions,function_notation,fn_15
+So to find f(3) you multiply 3 by the function f,function_notation,fn_20
+I beileve if f(x) = x + 6 then f(x+6) = x + 6.,function_notation,fn_21
+Well f(-x) is the same as -f(x) for all funcitons,function_notation,fn_15
+to find h(7) you multiply 7 by the function h,function_notation,fn_20
+I beleive if g(x) = x + 8 then g(x+8) = x + 8,function_notation,fn_21
+I remember that f(-x) is the same as -f(x) for all functinos.,function_notation,fn_15
+I remember that to find f(9) you multiply 9 by the function f,function_notation,fn_20
+Pretty sure if h(x) = x + 8 then h(x+8) = x + 8,function_notation,fn_21
+I belivee g(-x) is the same as -g(x) for all functions.,function_notation,fn_15
+to find g(7) you multiply 7 by the function g.,function_notation,fn_20
+Okay so if g(x) = x + 3 then g(x+3) = x + 3.,function_notation,fn_21
+Okay so f(-x) is the same as -f(x) for all fucntions,function_notation,fn_15
+Basically to find h(7) you multiply 7 by the fnuction h.,function_notation,fn_20
+Basically if h(x) = x + 3 then h(x+3) = x + 3.,function_notation,fn_21
+h(-x) is the same as -h(x) for all fucntions,function_notation,fn_15
+Well P(X or Y) = P(X) + P(Y) no matter what the events are,probability_rule_misuse,pr_00
+P(A given C) is the same as P(C given A),probability_rule_misuse,pr_03
+to get P(A or C) you multiply P(A) and P(C).,probability_rule_misuse,pr_08
+P(X or Y) = 1 - P(X) - P(Y).,probability_rule_misuse,pr_21
+So P(A or B) = P(A) + P(B) no matter what the events are,probability_rule_misuse,pr_00
+Okay so P(X given Y) is the same as P(Y given X),probability_rule_misuse,pr_03
+I believe to get P(A or B) you multiply P(A) and P(B),probability_rule_misuse,pr_08
+Okay so P(A or B) = P(A) + P(B) no matter what the evetns are.,probability_rule_misuse,pr_00
+P(E given F) is the same as P(F given E).,probability_rule_misuse,pr_03
+I think to get P(X or Y) you mutliply P(X) and P(Y),probability_rule_misuse,pr_08
+I think P(A or C) = 1 - P(A) - P(C),probability_rule_misuse,pr_21
+Well P(E or F) = P(E) + P(F) no matter what the events are.,probability_rule_misuse,pr_00
+I believe P(A given B) is the same as P(B given A).,probability_rule_misuse,pr_03
+to get P(E or F) you mlutiply P(E) and P(F).,probability_rule_misuse,pr_08
+My answer is P(E or F) = 1 - P(E) - P(F),probability_rule_misuse,pr_21
+P(A or C) = P(A) + P(C) no matter what the evetns are,probability_rule_misuse,pr_00
+I rmeember that P(A given C) is the same as P(C given A),probability_rule_misuse,pr_03
+to get P(E or F) you multiply P(E) and P(F).,probability_rule_misuse,pr_08
+My answer is P(A or C) = P(A) + P(C) no matter what the events are.,probability_rule_misuse,pr_00
+I bleieve P(A given C) is the same as P(C given A).,probability_rule_misuse,pr_03
+to get P(X or Y) you multiply P(X) and P(Y),probability_rule_misuse,pr_08
+P(A or C) = P(A) + P(C) no mtater what the events are,probability_rule_misuse,pr_00
+to get P(E or F) you multpily P(E) and P(F),probability_rule_misuse,pr_08
+Pretty sure P(A or B) = P(A) + P(B) no matter what the evnets are,probability_rule_misuse,pr_00
+Okay so to get P(A or B) you mulitply P(A) and P(B).,probability_rule_misuse,pr_08
+Pretty sure P(A or B) = P(A) + P(B) no matter what the eevnts are,probability_rule_misuse,pr_00
+to get P(A or C) you mlutiply P(A) and P(C),probability_rule_misuse,pr_08
+Honestly P(A or C) = P(A) + P(C) no matter what the eevnts are,probability_rule_misuse,pr_00
+My answer is to get P(A or C) you mulitply P(A) and P(C).,probability_rule_misuse,pr_08
+Basically P(E or F) = P(E) + P(F) no matter what the eevnts are,probability_rule_misuse,pr_00
+So to get P(A or B) you multpily P(A) and P(B).,probability_rule_misuse,pr_08
+My anwser is P(E or F) = P(E) + P(F) no matter what the events are.,probability_rule_misuse,pr_00
+Well to get P(X or Y) you multpily P(X) and P(Y),probability_rule_misuse,pr_08
+P(E or F) = P(E) + P(F) no mtater what the events are.,probability_rule_misuse,pr_00
+to get P(A or C) you multpily P(A) and P(C),probability_rule_misuse,pr_08
+I bleieve P(A or B) = P(A) + P(B) no matter what the events are,probability_rule_misuse,pr_00
+to get P(A or B) you multilpy P(A) and P(B),probability_rule_misuse,pr_08
+Okay so P(A or B) = P(A) + P(B) no mtater what the events are,probability_rule_misuse,pr_00
+to get P(X or Y) you multilpy P(X) and P(Y).,probability_rule_misuse,pr_08
+So P(E or F) = P(E) + P(F) no matter what the evnets are,probability_rule_misuse,pr_00
+I remember that to get P(E or F) you mulitply P(E) and P(F),probability_rule_misuse,pr_08
+I think P(X or Y) = P(X) + P(Y) no matter what the evnets are,probability_rule_misuse,pr_00
+My anwser is to get P(X or Y) you multiply P(X) and P(Y),probability_rule_misuse,pr_08
+I believe P(X or Y) = P(X) + P(Y) no mtater what the events are,probability_rule_misuse,pr_00
+I remember that to get P(A or B) you mutliply P(A) and P(B).,probability_rule_misuse,pr_08
+Pretty sure P(A or C) = P(A) + P(C) no matetr what the events are,probability_rule_misuse,pr_00
+I believe to get P(A or C) you mutliply P(A) and P(C).,probability_rule_misuse,pr_08
+I reemmber that P(A or B) = P(A) + P(B) no matter what the events are,probability_rule_misuse,pr_00
+So to get P(E or F) you mutliply P(E) and P(F).,probability_rule_misuse,pr_08
+Well P(E or F) = P(E) + P(F) no matter what the evetns are,probability_rule_misuse,pr_00
+Honestly to get P(A or B) you mlutiply P(A) and P(B),probability_rule_misuse,pr_08
+I believe P(A or B) = P(A) + P(B) no matetr what the events are.,probability_rule_misuse,pr_00
+My ansewr is to get P(E or F) you multiply P(E) and P(F).,probability_rule_misuse,pr_08
+My anwser is to get P(A or B) you multiply P(A) and P(B),probability_rule_misuse,pr_08
+So to get P(E or F) you multilpy P(E) and P(F).,probability_rule_misuse,pr_08
+to get P(A or C) you multilpy P(A) and P(C),probability_rule_misuse,pr_08
+Honestly passing the quiz and failing the quiz cant both occur so they have no effect on each other and are independent.,independence_confusion,ind_04
+if getting heads happens and getting tails cannot then getting heads and getting tails are independent,independence_confusion,ind_08
+Pretty sure X and Y cant both occur so they have no effect on each other and are independent.,independence_confusion,ind_04
+if passing the quiz happens and failing the quiz can't then passing the quiz and failing the quiz are independent,independence_confusion,ind_08
+I remember that getting heads and getting tails can't both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+if a red card happens and a black card cannot then a red card and a black card are independent.,independence_confusion,ind_08
+Well X and Y cannot both occur so they have no effect on each other and are idnependent,independence_confusion,ind_04
+I think if a red card happens and a black card cant then a red card and a black card are independent,independence_confusion,ind_08
+I believe rolling a 2 and rolling a 5 cant both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+if rolling a 2 happens and rolling a 5 cant then rolling a 2 and rolling a 5 are independent,independence_confusion,ind_08
+X and Y can't both occur so they have no efefct on each other and are independent,independence_confusion,ind_04
+I remember that if E happens and F cannot then E and F are independent,independence_confusion,ind_08
+Basically passing the quiz and failing the quiz cannot both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+I think if A happens and B cannot then A and B are independent,independence_confusion,ind_08
+E and F cannot both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+I remember that if passing the quiz happens and failing the quiz cant then passing the quiz and failing the quiz are inedpendent.,independence_confusion,ind_08
+drwaing a king and drawing a queen cannot both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+Pretty sure if rolling a 2 happens and rolling a 5 can't then rolling a 2 and rolling a 5 are independent,independence_confusion,ind_08
+I remember that rolling a 2 and rolling a 5 cannot both occur so they have no effect on each other and are independnet,independence_confusion,ind_04
+Pretty sure if drawing a king happens and drawing a queen cannot then drawing a king and drawing a queen are independent,independence_confusion,ind_08
+Okay so X and Y cannot both occur so they have no effect on each other and are inedpendent,independence_confusion,ind_04
+I remember that if drawing a king happens and drawing a queen cannot then drawing a king and drawing a queen are indepenednt,independence_confusion,ind_08
+drawing a king and drawing a queen cannot both occur so they have no effect on each other and are independent.,independence_confusion,ind_04
+Well if passing the quiz happens and failing the quiz cant then passing the quiz and failing the quiz are independent.,independence_confusion,ind_08
+I remember that rolling a 2 and rolling a 5 can't both occur so they have no effect on each other and are independent.,independence_confusion,ind_04
+if X happens and Y cannot then X and Y are independent,independence_confusion,ind_08
+So passing the quiz and failing the quiz can't both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+Honestly if E happens and F cannot then E and F are indepnedent,independence_confusion,ind_08
+So rolling a 2 and rolling a 5 cannot both occur so they have no effect on each other and are indeepndent,independence_confusion,ind_04
+if getting heads happens and getting tails can't then getting heads and getting tails are independent.,independence_confusion,ind_08
+Pretty sure X and Y cannot both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+I remember that if X happens and Y can't then X and Y are idnependent,independence_confusion,ind_08
+I remember that getting heads and getting tails cannot both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+Well if E happens and F cant then E and F are independent,independence_confusion,ind_08
+drawing a king and drawing a queen can't both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+Honestly if E happens and F can't then E and F are independent,independence_confusion,ind_08
+I remember that a red card and a black card cannot both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+Okay so if drwaing a king happens and drawing a queen cannot then drawing a king and drawing a queen are independent,independence_confusion,ind_08
+Pretty sure rolling a 2 and rolling a 5 cannot both occur so they have no effect on each other and are independent.,independence_confusion,ind_04
+if X happens and Y cannot then X and Y are indepnedent.,independence_confusion,ind_08
+Well A and B cannot both occur so they have no effect on each other and are independent.,independence_confusion,ind_04
+if X happens and Y can't then X and Y are independent,independence_confusion,ind_08
+draiwng a king and drawing a queen cannot both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+Honestly if drawing a king happens and drawing a queen cannot then drawing a king and drawing a queen are indeepndent,independence_confusion,ind_08
+Well drawing a king and drawing a queen cant both occur so they have no effect on each other and are independent,independence_confusion,ind_04
+I remember that if getting heads hpapens and getting tails cannot then getting heads and getting tails are independent,independence_confusion,ind_08
+Okay so drawnig a king and drawing a queen cannot both occur so they have no effect on each other and are independent.,independence_confusion,ind_04
+Well if A happens and B cannot then A and B are inedpendent,independence_confusion,ind_08
+X and Y cant both occur so they have no efefct on each other and are independent,independence_confusion,ind_04
+Pretty sure if rolling a 2 happens and rolling a 5 cannot then rolling a 2 and rolling a 5 are independent,independence_confusion,ind_08
+Honestly rolling a 2 and rolling a 5 cannot both occur so they have no effect on each other and are idnependent,independence_confusion,ind_04
+Okay so if rloling a 2 happens and rolling a 5 cant then rolling a 2 and rolling a 5 are independent.,independence_confusion,ind_08
