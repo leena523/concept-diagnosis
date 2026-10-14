@@ -1,0 +1,116 @@
+response_text,misconception_label
+H+ is the conjugate acid of CH3COO-,conjugate_confusion
+if g(x) = x^2 then g(x+6) = x^2 + 6,function_notation
+My answer is that if f(x) = x^2 then f(x+9) = x^2 + 9,function_notation
+I remember that H2SO4 is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
+I remember that h(3) means h times 3,function_notation
+Well f(x) = x + 5 means the output is the input plus 5,correct
+Basically g(x) = 3x + 1 so g(6) = 3x + 6,function_notation
+My answer is that when HCN donates a proton you get CN+ as the conjugate base,conjugate_confusion
+HNO3 is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
+So rain and sunshine are independent because both cannot happen on the same try,independence_confusion
+I remember that if P(E and F) = 0 then E and F are independent,independence_confusion
+So if h(x) = x^2 then h(x+5) = x^2 + 5,function_notation
+The conjugate acid of F- is HF,correct
+I think when HCl donates a proton you get H2Cl+ as the conjugate base,conjugate_confusion
+The conjugate acid of H2O is H2,conjugate_confusion
+I remember that HCl is a weak acid because it only partly dissociates,strong_weak_confusion
+In my notes it says g(x+5) means g(x) + 5,function_notation
+H2CO3 is the conjugate acid of CO3 2-,conjugate_confusion
+In my notes it says F2 is the conjugate acid of F-,conjugate_confusion
+In my notes it says conjugate base of H2SO4 = H3SO4+,conjugate_confusion
+I remember that when Cl- accepts a proton you get HClO as the conjugate acid,conjugate_confusion
+Well the conjugate acid of NO3- is HNO3,correct
+HCN is the conjugate acid of CN-,correct
+I remember that h(x+7) means h(x) + 7,function_notation
+Well f(6) is the output of f when the input is 6,correct
+My answer is that conjugate base of HF = H2F+,conjugate_confusion
+So CH3COOH is strong because it has a very low pH in my lab sample,strong_weak_confusion
+In my notes it says when HF donates a proton you get H2F+ as the conjugate base,conjugate_confusion
+P(A or B) = P(A) + P(B) no matter what the events are,probability_rule_misuse
+g(x) means g multiplied by x,function_notation
+Basically H3PO4 is a weak acid because it only partially dissociates,correct
+My answer is that HCOOH is strong because it has a very low pH in my lab sample,strong_weak_confusion
+The conjugate base of HCl is Cl+,conjugate_confusion
+conjugate base of HCN = CN+,conjugate_confusion
+Basically if P(A) = 0.7 and P(B) = 0.6 then P(A and B) = 1.3,probability_rule_misuse
+In my notes it says P(A) = 0.7 and P(B) = 0.9 so P(A or B) = 0.63,probability_rule_misuse
+Basically h(x+6) means h(x) + 6,function_notation
+In my notes it says H3PO4 completely dissociates in water so it is strong,strong_weak_confusion
+So if getting heads and getting tails can happen together they must be dependent,independence_confusion
+I think h(x+9) is not equal to h(x) + 9 unless h is linear with slope 1,correct
+So after H2O picks up a proton you get H3O+,correct
+Well independent means P(rain and sunshine) = 0,independence_confusion
+My answer is that if g(x) = x^2 then g(x+8) = x^2 + 8,function_notation
+My answer is that A and B are independent because both cannot happen on the same try,independence_confusion
+Basically the conjugate base of HBr is Br-,correct
+I think P(A) = 1.7 is possible if the event is very likely,probability_rule_misuse
+HI must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
+H3PO4 is strong because it has a very low pH in my lab sample,strong_weak_confusion
+In my notes it says if h(x) = 4x then h(x+1) = 4x + 1,function_notation
+I think CO2 is the conjugate acid of CO3 2-,conjugate_confusion
+Basically the conjugate acid of Cl- is H+,conjugate_confusion
+conjugate base of H2O = H3O+,conjugate_confusion
+I remember that f(2x) is just 2 times f(x) for every function,function_notation
+if A and B can happen together they must be dependent,independence_confusion
+So if g(x) = 4x then g(x+1) = 4x + 1,function_notation
+when H2O accepts a proton you get H3O- as the conjugate acid,conjugate_confusion
+So f(x+9) means f(x) + 9,function_notation
+My answer is that h(x+5) is not equal to h(x) + 5 unless h is linear with slope 1,correct
+I think f(x) = 2x + 1 so f(6) = 2x + 6,function_notation
+In my notes it says g(g(x)) is just g(x) squared,function_notation
+I remember that the notation h(9) tells you to multiply the function by 9,function_notation
+g(2x) is just 2 times g(x) for every function,function_notation
+In my notes it says the conjugate acid of SO4 2- is HSO4-,correct
+mutually exclusive events cannot happen at the same time,correct
+I remember that if h(x) = x^2 then h(x+6) = x^2 + 6,function_notation
+I think g(x+7) is the same as g(x) + g(7) for any function,function_notation
+So after CH3COOH loses a proton you get CH3COO-,correct
+So conjugate base of H2SO4 = HSO4-,correct
+Basically if P(getting heads and getting tails) = 0 then getting heads and getting tails are independent,independence_confusion
+Basically f(x+6) is not equal to f(x) + 6 unless f is linear with slope 1,correct
+Well P(A) = 0.8 and P(B) = 0.9 so P(A or B) = 0.72,probability_rule_misuse
+Well h(x+4) means h(x) + 4,function_notation
+I think independent means P(passing math and failing math) = 0,independence_confusion
+My answer is that conjugate base of HCO3- = CO3 2-,correct
+conjugate base of HCN = CN-,correct
+HF is strong because the solution is concentrated,strong_weak_confusion
+So if rain and sunshine can happen together they must be dependent,independence_confusion
+I think if g(x) = x^2 then g(x+7) = x^2 + 7,function_notation
+Basically CN- is the conjugate base of HCN,correct
+In my notes it says NH2- is the conjugate acid of NH3,conjugate_confusion
+My answer is that f(x+7) is not equal to f(x) + 7 unless f is linear with slope 1,correct
+HCl is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
+The conjugate acid of H2O is H3O-,conjugate_confusion
+I remember that when HCl donates a proton you get OH- as the conjugate base,conjugate_confusion
+H+ is the conjugate acid of Cl-,conjugate_confusion
+In my notes it says conjugate base of HCl = H2Cl+,conjugate_confusion
+In my notes it says HCOOH is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+Well HNO3 is a weak acid because it only partly dissociates,strong_weak_confusion
+I think h(x) = 2x + 1 so h(2) = 2x + 2,function_notation
+In my notes it says HF is the conjugate acid of F-,correct
+I think g(3) is the output of g when the input is 3,correct
+Well g(6) is the output of g when the input is 6,correct
+So H3O+ is the conjugate acid of OH-,conjugate_confusion
+I think f(x+5) is not equal to f(x) + 5 unless f is linear with slope 1,correct
+I think g(x) = 2x + 1 so g(6) = 2x + 6,function_notation
+I remember that when H2O donates a proton you get H+ as the conjugate base,conjugate_confusion
+HCl is a strong acid because it dissociates completely in water,correct
+Well HBr must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
+I think the conjugate base of H2O is H+,conjugate_confusion
+In my notes it says HCN is strong because it has a very low pH in my lab sample,strong_weak_confusion
+Basically CO3- is the conjugate acid of CO3 2-,conjugate_confusion
+Well to get P(A or B) you multiply P(A) and P(B),probability_rule_misuse
+h(x+5) means we plug x+5 into the function h,correct
+I remember that if P(A) = 0.6 and P(B) = 0.5 then P(A and B) = 1.1,probability_rule_misuse
+Basically if P(A) = 0.7 and P(B) = 0.5 then P(A or B) = 0.7 + 0.5 = 1.2 even if they overlap,probability_rule_misuse
+I think g(x+6) means g(x) + 6,function_notation
+Well P(A) = 0.6 and P(B) = 0.9 so P(A or B) = 0.54,probability_rule_misuse
+Basically if drawing a king and drawing a queen are independent then they cannot happen together,independence_confusion
+In my notes it says f(x+4) means f(x) + 4,function_notation
+My answer is that f(x+8) means f(x) + 8,function_notation
+Basically g(x) = x + 8 means the output is the input plus 8,correct
+I think when CH3COOH donates a proton you get OH- as the conjugate base,conjugate_confusion
+So when HNO3 donates a proton you get H+ as the conjugate base,conjugate_confusion
+Basically if h(x) = x^2 then h(x+2) = x^2 + 2,function_notation
+when OH- accepts a proton you get O2- as the conjugate acid,conjugate_confusion

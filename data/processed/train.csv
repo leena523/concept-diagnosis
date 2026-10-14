@@ -1,0 +1,647 @@
+response_text,misconception_label
+So getting heads and getting tails are independent because both cannot happen on the same try,independence_confusion
+Basically when NH4+ donates a proton you get NH2- as the conjugate base,conjugate_confusion
+Well f(x) = 3x + 1 so f(3) = 3x + 3,function_notation
+Well HCN is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+HNO3 is a strong acid because it dissociates completely in water,correct
+P(A given B) is the same as P(B given A),probability_rule_misuse
+My answer is that f(x+8) is the same as f(x) + f(8) for any function,function_notation
+Strong acid means it can burn through anything,strong_weak_confusion
+P(A|B) = P(A and B) / P(B),correct
+HNO2 is a weak acid because it only partially dissociates,correct
+f(2) means f times 2,function_notation
+HClO is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+I think after SO4 2- picks up a proton you get HSO4-,correct
+In my notes it says g(x) = 3x + 1 so g(3) = 3x + 3,function_notation
+h(6) means h times 6,function_notation
+Well when NH4+ donates a proton you get NH4- as the conjugate base,conjugate_confusion
+So HClO4 is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
+I remember that when H2O donates a proton you get H3O+ as the conjugate base,conjugate_confusion
+Basically g(x+9) is the same as g(x) + g(9) for any function,function_notation
+Basically H2O is the conjugate base of H3O+,correct
+In my notes it says NO3+ is the conjugate base of HNO3,conjugate_confusion
+if X happens and Y cannot then X and Y are independent,independence_confusion
+So after OH- picks up a proton you get H2O,correct
+g(x+6) means we plug x+6 into the function g,correct
+Well if h(x) = 2x then h(x+1) = 2x + 1,function_notation
+I think OH- is the conjugate base of NH4+,conjugate_confusion
+So the conjugate base of H2SO4 is H+,conjugate_confusion
+In my notes it says the notation f(6) tells you to multiply the function by 6,function_notation
+Well H2NO3+ is the conjugate base of HNO3,conjugate_confusion
+In my notes it says g(x+7) means g(x) + 7,function_notation
+In my notes it says HSO4- is the conjugate base of H2SO4,correct
+My answer is that g(9) means g times 9,function_notation
+rolling a die 3 times the chance of at least one six is 3/6,probability_rule_misuse
+I think HCOOH is a strong acid because it has a very polar bond,strong_weak_confusion
+My answer is that h(x+6) is not equal to h(x) + 6 unless h is linear with slope 1,correct
+In my notes it says g(2) is the output of g when the input is 2,correct
+I think if g(x) = x^2 then g(x+9) = x^2 + 9,function_notation
+the parentheses in f(x) mean multiply f and x,function_notation
+Well P(A) = 0.6 and P(B) = 0.5 so P(A or B) = 0.3,probability_rule_misuse
+In my notes it says HNO2 is strong because the solution is concentrated,strong_weak_confusion
+In my notes it says f(x+9) means we plug x+9 into the function f,correct
+f(x) = x + 9 means the output is the input plus 9,correct
+I think HNO2 is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+I think H2O is the conjugate acid of OH-,correct
+My answer is that P(A or B) = P(A) + P(B) - P(A and B),correct
+In my notes it says f(x) = x + 7 means the output is the input plus 7,correct
+HCOOH is a weak acid because it only partially dissociates,correct
+So f(x+4) is not equal to f(x) + 4 unless f is linear with slope 1,correct
+My answer is that h(x) = 3x + 1 so h(5) = 3x + 5,function_notation
+I remember that when CH3COOH donates a proton you get H+ as the conjugate base,conjugate_confusion
+I remember that f(x) = 2x + 1 so f(3) = 2x + 3,function_notation
+g(x+6) is not equal to g(x) + 6 unless g is linear with slope 1,correct
+Basically when CH3COO- accepts a proton you get CH3COOH2+ as the conjugate acid,conjugate_confusion
+rolling a die 2 times the chance of at least one six is 2/6,probability_rule_misuse
+The conjugate acid of Cl- is HCl,correct
+HClO4 is weak because it has a low concentration,strong_weak_confusion
+if f(x) = 3x then f(x+1) = 3x + 1,function_notation
+My answer is that h(x) = x + 2 means the output is the input plus 2,correct
+So HClO is a strong acid because it has a very polar bond,strong_weak_confusion
+Well when CH3COOH donates a proton you get CH3COOH2+ as the conjugate base,conjugate_confusion
+Well h(x+4) means we plug x+4 into the function h,correct
+So conjugate base of H2CO3 = HCO3-,correct
+Basically g(x+5) is the same as g(x) + g(5) for any function,function_notation
+I remember that if A happens and B cannot then A and B are independent,independence_confusion
+conjugate base of HNO2 = NO2-,correct
+when HNO3 donates a proton you get H2NO3+ as the conjugate base,conjugate_confusion
+I remember that HCl is weak because it has a low concentration,strong_weak_confusion
+So E and F are independent because both cannot happen on the same try,independence_confusion
+Well f(x+2) means f(x) + 2,function_notation
+P(A) = 0.6 and P(B) = 0.6 so P(A or B) = 0.36,probability_rule_misuse
+NO3- is the conjugate base of HNO3,correct
+flipping 4 coins the chance of all heads is 4 times 1/2,probability_rule_misuse
+My answer is that if P(A) = 0.8 and P(B) = 0.7 then P(A and B) = 1.5,probability_rule_misuse
+if h(x) = x^2 then h(x+7) = x^2 + 7,function_notation
+H+ is the conjugate base of HSO4-,conjugate_confusion
+Well HClO is strong because it has a very low pH in my lab sample,strong_weak_confusion
+I think H3O+ is the conjugate acid of H2O,correct
+Well conjugate base of HNO3 = H2NO3+,conjugate_confusion
+In my notes it says P(A) = 0.7 and P(B) = 0.6 so P(A or B) = 0.42,probability_rule_misuse
+Basically h^-1(x) is the same as 1/h(x),function_notation
+Well f(x) = x + 4 means the output is the input plus 4,correct
+So conjugate base of CH3COOH = CH3COO-,correct
+I think the conjugate acid of NH3 is NH4+,correct
+I think h(x) = x + 9 means the output is the input plus 9,correct
+I think HClO4 is a weak acid because it only partly dissociates,strong_weak_confusion
+Well conjugate base of NH4+ = NH3,correct
+when HCl donates a proton you get H+ as the conjugate base,conjugate_confusion
+I remember that after HCO3- loses a proton you get CO3 2-,correct
+h(x) = 4x + 1 so h(3) = 4x + 3,function_notation
+In my notes it says after HF loses a proton you get F-,correct
+if f(x) = x^2 then f(x+3) = x^2 + 3,function_notation
+Basically HCl is the conjugate acid of Cl-,correct
+I think when H3O+ donates a proton you get H2 as the conjugate base,conjugate_confusion
+So HClO is a weak acid because it only partially dissociates,correct
+I think the conjugate base of CH3COOH is CH3COO-,correct
+In my notes it says if P(A) = 0.8 and P(B) = 0.9 then P(A and B) = 1.7,probability_rule_misuse
+In my notes it says the conjugate base of H3O+ is H4O 2+,conjugate_confusion
+My answer is that HCl must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
+So the conjugate base of NH4+ is NH4-,conjugate_confusion
+since X rules out Y the two events are independent,independence_confusion
+Well if getting heads and getting tails are independent then they cannot happen together,independence_confusion
+I remember that after HNO2 loses a proton you get NO2-,correct
+In my notes it says the conjugate base of HNO3 is NO3+,conjugate_confusion
+In my notes it says if P(A) = 0.8 and P(B) = 0.9 then P(A or B) = 0.8 + 0.9 = 1.7 even if they overlap,probability_rule_misuse
+Well after NO3- picks up a proton you get HNO3,correct
+I think g(x+2) means we plug x+2 into the function g,correct
+I remember that H2SO4 is a weak acid since it is not very reactive,strong_weak_confusion
+if g(x) = 2x then g(x+1) = 2x + 1,function_notation
+My answer is that conjugate base of H3O+ = H4O 2+,conjugate_confusion
+h(x+2) is the same as h(x) + h(2) for any function,function_notation
+So CN+ is the conjugate base of HCN,conjugate_confusion
+I remember that if drawing a king happens and drawing a queen cannot then drawing a king and drawing a queen are independent,independence_confusion
+Well if P(A) = 0.6 and P(B) = 0.9 then P(A and B) = 1.5,probability_rule_misuse
+Well f(x) = 5x + 1 so f(3) = 5x + 3,function_notation
+The conjugate acid of CH3COO- is H+,conjugate_confusion
+Basically the conjugate base of HF is H+,conjugate_confusion
+So if f(x) = x^2 then f(x+6) = x^2 + 6,function_notation
+Basically g(x+4) is not equal to g(x) + 4 unless g is linear with slope 1,correct
+I remember that h(x+7) is the same as h(x) + h(7) for any function,function_notation
+So if X and Y are independent then they cannot happen together,independence_confusion
+Basically h(x) = 4x + 1 so h(8) = 4x + 8,function_notation
+I think the conjugate acid of CO3 2- is CO3-,conjugate_confusion
+Basically the conjugate base of H2SO4 is HSO4-,correct
+I think HBr is weak because it has a low concentration,strong_weak_confusion
+In my notes it says flipping 5 coins the chance of all heads is 5 times 1/2,probability_rule_misuse
+Well the conjugate base of HSO4- is H+,conjugate_confusion
+In my notes it says the conjugate base of NH4+ is NH5+,conjugate_confusion
+if passing math and failing math can happen together they must be dependent,independence_confusion
+I remember that if getting heads happens and getting tails cannot then getting heads and getting tails are independent,independence_confusion
+I think the conjugate acid of F- is HFO,conjugate_confusion
+g(9) is the output of g when the input is 9,correct
+I remember that if P(A) = 0.6 and P(B) = 0.6 then P(A and B) = 1.2,probability_rule_misuse
+E and F cannot both occur so they have no effect on each other and are independent,independence_confusion
+CH3COOH2+ is the conjugate acid of CH3COO-,conjugate_confusion
+I remember that if rain and sunshine are independent then they cannot happen together,independence_confusion
+I remember that g(x+8) is not equal to g(x) + 8 unless g is linear with slope 1,correct
+Basically h(x+3) means we plug x+3 into the function h,correct
+h(4) is the output of h when the input is 4,correct
+Basically H+ is the conjugate base of H2SO4,conjugate_confusion
+The conjugate base of H2CO3 is HCO3-,correct
+My answer is that HNO3 is weak because it has a low concentration,strong_weak_confusion
+Basically when OH- accepts a proton you get H3O+ as the conjugate acid,conjugate_confusion
+CH3COOH2+ is the conjugate base of CH3COOH,conjugate_confusion
+Well the conjugate base of HCO3- is CO3 2-,correct
+conjugate base of CH3COOH = CH3COOH2+,conjugate_confusion
+Well H2SO4 is weak because the solution I made was dilute,strong_weak_confusion
+h(2x) is just 2 times h(x) for every function,function_notation
+Well conjugate base of NH4+ = OH-,conjugate_confusion
+h(x+5) means h(x) + 5,function_notation
+Well f(x+3) means f(x) + 3,function_notation
+I think g(x+3) is the same as g(x) + g(3) for any function,function_notation
+I remember that OH- is the conjugate base of HNO3,conjugate_confusion
+So h(x) = 3x + 1 so h(4) = 3x + 4,function_notation
+Basically A and B cannot both occur so they have no effect on each other and are independent,independence_confusion
+h(x+8) is the same as h(x) + h(8) for any function,function_notation
+In my notes it says h(h(x)) is just h(x) squared,function_notation
+I remember that if g(x) = 3x then g(x+1) = 3x + 1,function_notation
+My answer is that the conjugate acid of NH3 is OH-,conjugate_confusion
+I think when CO3 2- accepts a proton you get CO3- as the conjugate acid,conjugate_confusion
+In my notes it says if P(A) = 0.8 and P(B) = 0.5 then P(A or B) = 0.8 + 0.5 = 1.3 even if they overlap,probability_rule_misuse
+disjoint events are always independent of each other,independence_confusion
+I think h(x+3) is not equal to h(x) + 3 unless h is linear with slope 1,correct
+Well HClO is strong because the solution is concentrated,strong_weak_confusion
+My answer is that independent means P(getting heads and getting tails) = 0,independence_confusion
+The conjugate base of HNO3 is OH-,conjugate_confusion
+OH- is the conjugate base of CH3COOH,conjugate_confusion
+I think OH- is the conjugate acid of H2O,conjugate_confusion
+I remember that g(x+5) means we plug x+5 into the function g,correct
+I remember that the conjugate base of HCN is CN-,correct
+Basically the conjugate base of H2O is O2-,conjugate_confusion
+Basically if P(A) = 0.7 and P(B) = 0.7 then P(A and B) = 1.4,probability_rule_misuse
+independent means P(X and Y) = 0,independence_confusion
+Basically if f(x) = x^2 then f(x+4) = x^2 + 4,function_notation
+HNO3 must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
+So f(x) = 2x + 1 so f(2) = 2x + 2,function_notation
+My answer is that H2CO3 completely dissociates in water so it is strong,strong_weak_confusion
+I think conjugate base of HCN = OH-,conjugate_confusion
+I think g(5) is the output of g when the input is 5,correct
+So drawing a king and drawing a queen are independent because both cannot happen on the same try,independence_confusion
+So H+ is the conjugate base of HCl,conjugate_confusion
+The conjugate base of HNO3 is H2NO3+,conjugate_confusion
+H2SO4 is a weak acid because it only partly dissociates,strong_weak_confusion
+I remember that passing math and failing math cannot both occur so they have no effect on each other and are independent,independence_confusion
+In my notes it says HF is strong because it has a very low pH in my lab sample,strong_weak_confusion
+In my notes it says if f(x) = x^2 then f(x+7) = x^2 + 7,function_notation
+So if passing math and failing math are independent then they cannot happen together,independence_confusion
+I remember that P(A) = 0.6 and P(B) = 0.7 so P(A or B) = 0.42,probability_rule_misuse
+HF is a strong acid because it has a very polar bond,strong_weak_confusion
+My answer is that CH3COOH completely dissociates in water so it is strong,strong_weak_confusion
+conjugate base of NH4+ = NH2-,conjugate_confusion
+Well f(7) is the output of f when the input is 7,correct
+I remember that HCl is a weak acid since it is not very reactive,strong_weak_confusion
+In my notes it says when HSO4- donates a proton you get H2SO4 as the conjugate base,conjugate_confusion
+H2SO4 is the conjugate base of HSO4-,conjugate_confusion
+Well g(3x) is just 3 times g(x) for every function,function_notation
+In my notes it says H3PO4 is strong because the solution is concentrated,strong_weak_confusion
+The conjugate base of CH3COOH is H+,conjugate_confusion
+So h(8) means h times 8,function_notation
+Well A dilute acid is the same as a weak acid,strong_weak_confusion
+Well flipping 3 coins the chance of all heads is 3 times 1/2,probability_rule_misuse
+So conjugate base of NH4+ = NH5+,conjugate_confusion
+My answer is that the conjugate base of H2SO4 is H3SO4+,conjugate_confusion
+g(8) is the output of g when the input is 8,correct
+In my notes it says the notation g(4) tells you to multiply the function by 4,function_notation
+My answer is that strong acids have a high pH and weak acids have a low pH,strong_weak_confusion
+h(4) means h times 4,function_notation
+My answer is that if A and B are independent then knowing A happened does not change P(B),correct
+My answer is that the conjugate base of HCN is OH-,conjugate_confusion
+My answer is that HI is weak because it has a low concentration,strong_weak_confusion
+My answer is that HCO3- is the conjugate acid of CO3 2-,correct
+Well h(4x) is just 4 times h(x) for every function,function_notation
+In my notes it says if P(A) = 0.8 and P(B) = 0.7 then P(A or B) = 0.8 + 0.7 = 1.5 even if they overlap,probability_rule_misuse
+In my notes it says when H2O accepts a proton you get OH- as the conjugate acid,conjugate_confusion
+g(5x) is just 5 times g(x) for every function,function_notation
+h(x+8) is not equal to h(x) + 8 unless h is linear with slope 1,correct
+g(x+7) is not equal to g(x) + 7 unless g is linear with slope 1,correct
+So HClO4 must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
+O2- is the conjugate acid of OH-,conjugate_confusion
+I think the notation g(8) tells you to multiply the function by 8,function_notation
+if rolling a 2 happens and rolling a 5 cannot then rolling a 2 and rolling a 5 are independent,independence_confusion
+In my notes it says the conjugate acid of CN- is HCN,correct
+Basically f(7) means f times 7,function_notation
+I think g(x) = 4x + 1 so g(8) = 4x + 8,function_notation
+I think f(5) is the output of f when the input is 5,correct
+I remember that conjugate base of H3O+ = H2,conjugate_confusion
+My answer is that conjugate base of CH3COOH = H+,conjugate_confusion
+In my notes it says f(a+b) = f(a) + f(b) always,function_notation
+In my notes it says the conjugate acid of CH3COO- is CH3COOH2+,conjugate_confusion
+Well the conjugate acid of OH- is OH+,conjugate_confusion
+My answer is that h(x) = x + 7 means the output is the input plus 7,correct
+Basically if f(x) = x^2 then f(x+5) = x^2 + 5,function_notation
+independence is when the events exclude each other,independence_confusion
+I remember that h(x) = 5x + 1 so h(9) = 5x + 9,function_notation
+I remember that H2 is the conjugate base of H3O+,conjugate_confusion
+I think when CH3COO- accepts a proton you get H+ as the conjugate acid,conjugate_confusion
+I remember that drawing a king and drawing a queen cannot both occur so they have no effect on each other and are independent,independence_confusion
+HI is a strong acid because it dissociates completely in water,correct
+I remember that the notation h(3) tells you to multiply the function by 3,function_notation
+h(x+9) is the same as h(x) + h(9) for any function,function_notation
+g(x+8) means g(x) + 8,function_notation
+I think F- is the conjugate base of HF,correct
+g(x) = x + 4 means the output is the input plus 4,correct
+In my notes it says H2CO3 is strong because it has a very low pH in my lab sample,strong_weak_confusion
+Basically after HSO4- loses a proton you get SO4 2-,correct
+My answer is that if g(x) = x^2 then g(x+3) = x^2 + 3,function_notation
+H3O- is the conjugate acid of H2O,conjugate_confusion
+g(x+2) is not equal to g(x) + 2 unless g is linear with slope 1,correct
+In my notes it says HNO2 is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+HCO3- is the conjugate base of H2CO3,correct
+I remember that after H2O loses a proton you get OH-,correct
+My answer is that since rain rules out sunshine the two events are independent,independence_confusion
+HCl is weak because the solution I made was dilute,strong_weak_confusion
+h(x) = 2x + 1 so h(8) = 2x + 8,function_notation
+Well g(x) = 2x + 1 so g(9) = 2x + 9,function_notation
+My answer is that SO4 2- is the conjugate base of HSO4-,correct
+when H3O+ donates a proton you get OH- as the conjugate base,conjugate_confusion
+I remember that the notation f(7) tells you to multiply the function by 7,function_notation
+The conjugate acid of F- is F2,conjugate_confusion
+when HSO4- donates a proton you get SO4+ as the conjugate base,conjugate_confusion
+f(x) = x + 8 means the output is the input plus 8,correct
+I think the circles for independent events in a Venn diagram do not overlap,independence_confusion
+I think f(x+3) is not equal to f(x) + 3 unless f is linear with slope 1,correct
+Well the conjugate acid of CH3COO- is CH3COOH,correct
+g(2) means g times 2,function_notation
+I remember that the notation h(5) tells you to multiply the function by 5,function_notation
+Well f(x) = x + 3 means the output is the input plus 3,correct
+independent means P(rolling a 2 and rolling a 5) = 0,independence_confusion
+since A rules out B the two events are independent,independence_confusion
+HCN completely dissociates in water so it is strong,strong_weak_confusion
+My answer is that g(x+2) is the same as g(x) + g(2) for any function,function_notation
+CH3COO- is the conjugate base of CH3COOH,correct
+So when NH3 accepts a proton you get NH3+ as the conjugate acid,conjugate_confusion
+So when HCN donates a proton you get H+ as the conjugate base,conjugate_confusion
+Basically the conjugate base of H3O+ is H2O,correct
+since rolling a 2 rules out rolling a 5 the two events are independent,independence_confusion
+Basically if f(x) = x^2 then f(x+2) = x^2 + 2,function_notation
+if P(A) = 0.8 and P(B) = 0.6 then P(A and B) = 1.4,probability_rule_misuse
+In my notes it says f(x+2) is not equal to f(x) + 2 unless f is linear with slope 1,correct
+So h(2) means h times 2,function_notation
+conjugate base of HCN = H+,conjugate_confusion
+In my notes it says when H2SO4 donates a proton you get OH- as the conjugate base,conjugate_confusion
+conjugate base of H3O+ = H2O,correct
+I remember that g(x+9) means g(x) + 9,function_notation
+Well the conjugate base of HCN is H+,conjugate_confusion
+I remember that H+ is the conjugate base of HNO3,conjugate_confusion
+In my notes it says HI is a weak acid because it only partly dissociates,strong_weak_confusion
+Well the conjugate base of HNO2 is NO2-,correct
+So the conjugate acid of CO3 2- is CO2,conjugate_confusion
+if h(x) = x^2 then h(x+3) = x^2 + 3,function_notation
+I think if P(A) = 0.8 and P(B) = 0.6 then P(A or B) = 0.8 + 0.6 = 1.4 even if they overlap,probability_rule_misuse
+So the notation g(5) tells you to multiply the function by 5,function_notation
+I remember that HClO is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+Well when H3O+ donates a proton you get H4O 2+ as the conjugate base,conjugate_confusion
+HClO4 is weak because the solution I made was dilute,strong_weak_confusion
+In my notes it says two mutually exclusive events with nonzero probability are always dependent,correct
+NH2- is the conjugate base of NH4+,conjugate_confusion
+I think H3PO4 is a strong acid because it has a very polar bond,strong_weak_confusion
+Basically H+ is the conjugate base of CH3COOH,conjugate_confusion
+I remember that if h(x) = 3x then h(x+1) = 3x + 1,function_notation
+So if passing math happens and failing math cannot then passing math and failing math are independent,independence_confusion
+So f(4) is the output of f when the input is 4,correct
+I think the notation h(7) tells you to multiply the function by 7,function_notation
+Well if h(x) = x^2 then h(x+8) = x^2 + 8,function_notation
+after H2CO3 loses a proton you get HCO3-,correct
+I think the notation f(4) tells you to multiply the function by 4,function_notation
+I remember that H2Cl+ is the conjugate base of HCl,conjugate_confusion
+P(not A) = 1 - P(A),correct
+I think conjugate base of HSO4- = SO4 2-,correct
+if P(A) = 0.6 and P(B) = 0.6 then P(A or B) = 0.6 + 0.6 = 1.2 even if they overlap,probability_rule_misuse
+h(x+3) is the same as h(x) + h(3) for any function,function_notation
+I remember that h(x+9) means we plug x+9 into the function h,correct
+So the notation h(8) tells you to multiply the function by 8,function_notation
+My answer is that the parentheses in g(x) mean multiply g and x,function_notation
+In my notes it says h(x+6) is the same as h(x) + h(6) for any function,function_notation
+SO4+ is the conjugate base of HSO4-,conjugate_confusion
+Cl2 is the conjugate acid of Cl-,conjugate_confusion
+In my notes it says f(x+5) means f(x) + 5,function_notation
+I think h(x+8) means we plug x+8 into the function h,correct
+In my notes it says the conjugate acid of CO3 2- is HCO3-,correct
+rolling a 2 and rolling a 5 cannot both occur so they have no effect on each other and are independent,independence_confusion
+P(A or B) = P(A) + P(B) only when A and B are mutually exclusive,correct
+I remember that if P(drawing a king and drawing a queen) = 0 then drawing a king and drawing a queen are independent,independence_confusion
+So conjugate base of HNO3 = H+,conjugate_confusion
+So f(x+5) is the same as f(x) + f(5) for any function,function_notation
+f(x+4) is the same as f(x) + f(4) for any function,function_notation
+if P(X and Y) = 0 then X and Y are independent,independence_confusion
+h(x+3) means h(x) + 3,function_notation
+if g(x) = x^2 then g(x+5) = x^2 + 5,function_notation
+My answer is that g(x) = 5x + 1 so g(3) = 5x + 3,function_notation
+f(4x) is just 4 times f(x) for every function,function_notation
+H+ is the conjugate acid of F-,conjugate_confusion
+I think the notation g(6) tells you to multiply the function by 6,function_notation
+I remember that h(x+5) is the same as h(x) + h(5) for any function,function_notation
+Basically HCOOH completely dissociates in water so it is strong,strong_weak_confusion
+I think P(A) = 0.8 and P(B) = 0.5 so P(A or B) = 0.4,probability_rule_misuse
+if P(A) = 0.7 and P(B) = 0.6 then P(A or B) = 0.7 + 0.6 = 1.3 even if they overlap,probability_rule_misuse
+Basically flipping 2 coins the chance of all heads is 2 times 1/2,probability_rule_misuse
+Well OH- is the conjugate base of HF,conjugate_confusion
+So h(x+2) means we plug x+2 into the function h,correct
+the notation f(5) tells you to multiply the function by 5,function_notation
+I think HCN is a strong acid because it has a very polar bond,strong_weak_confusion
+My answer is that H2 is the conjugate acid of H2O,conjugate_confusion
+h(5x) is just 5 times h(x) for every function,function_notation
+Basically f(f(x)) is just f(x) squared,function_notation
+X and Y cannot both occur so they have no effect on each other and are independent,independence_confusion
+So when drawing without replacement you still multiply the original probabilities,probability_rule_misuse
+My answer is that HF is a weak acid because it only partially dissociates,correct
+after Cl- picks up a proton you get HCl,correct
+g(x+6) is the same as g(x) + g(6) for any function,function_notation
+conjugate base of HSO4- = H+,conjugate_confusion
+Basically f(x) = 3x + 1 so f(7) = 3x + 7,function_notation
+Well f(x+6) is the same as f(x) + f(6) for any function,function_notation
+In my notes it says if P(A) = 0.8 and P(B) = 0.5 then P(A and B) = 1.3,probability_rule_misuse
+I remember that if X and Y can happen together they must be dependent,independence_confusion
+I think when F- accepts a proton you get HFO as the conjugate acid,conjugate_confusion
+Basically P(A and B) = P(A) divided by P(B),probability_rule_misuse
+So if P(A) = 0.6 and P(B) = 0.9 then P(A or B) = 0.6 + 0.9 = 1.5 even if they overlap,probability_rule_misuse
+h(x) = 5x + 1 so h(5) = 5x + 5,function_notation
+g(x+3) means g(x) + 3,function_notation
+So P(A) = 0.7 and P(B) = 0.7 so P(A or B) = 0.49,probability_rule_misuse
+mutually exclusive events are independent,independence_confusion
+My answer is that if P(rain and sunshine) = 0 then rain and sunshine are independent,independence_confusion
+if P(A) = 0.7 and P(B) = 0.9 then P(A or B) = 0.7 + 0.9 = 1.6 even if they overlap,probability_rule_misuse
+So P(A) = 0.8 and P(B) = 0.6 so P(A or B) = 0.48,probability_rule_misuse
+I remember that g(x) = 4x + 1 so g(4) = 4x + 4,function_notation
+g(a+b) = g(a) + g(b) always,function_notation
+In my notes it says the notation h(4) tells you to multiply the function by 4,function_notation
+P(A) = 1.8 is possible if the event is very likely,probability_rule_misuse
+conjugate base of H2SO4 = H+,conjugate_confusion
+In my notes it says when HF donates a proton you get OH- as the conjugate base,conjugate_confusion
+The conjugate base of HCl is H2Cl+,conjugate_confusion
+Basically H3SO4+ is the conjugate base of H2SO4,conjugate_confusion
+I remember that f(8) means f times 8,function_notation
+The conjugate base of H3O+ is OH-,conjugate_confusion
+My answer is that HClO4 is a strong acid because it dissociates completely in water,correct
+h(7) is the output of h when the input is 7,correct
+F+ is the conjugate base of HF,conjugate_confusion
+when CO3 2- accepts a proton you get CO2 as the conjugate acid,conjugate_confusion
+after NH4+ loses a proton you get NH3,correct
+My answer is that CH3COOH is a strong acid because it has a very polar bond,strong_weak_confusion
+Basically the notation h(6) tells you to multiply the function by 6,function_notation
+Basically if h(x) = x^2 then h(x+4) = x^2 + 4,function_notation
+I think when CH3COO- accepts a proton you get CH3COO+ as the conjugate acid,conjugate_confusion
+I remember that h(x) = x + 3 means the output is the input plus 3,correct
+So the conjugate base of HF is F+,conjugate_confusion
+when H2O accepts a proton you get H2 as the conjugate acid,conjugate_confusion
+I remember that getting heads and getting tails cannot both occur so they have no effect on each other and are independent,independence_confusion
+My answer is that the probability of two events happening together is found by adding their probabilities,probability_rule_misuse
+Well g^-1(x) is the same as 1/g(x),function_notation
+Basically h(x) = 4x + 1 so h(5) = 4x + 5,function_notation
+My answer is that HI is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
+after CO3 2- picks up a proton you get HCO3-,correct
+I remember that for independent events P(A and B) = P(A) times P(B),correct
+I remember that after F- picks up a proton you get HF,correct
+Well h(9) is the output of h when the input is 9,correct
+h(9) means h times 9,function_notation
+I think HBr is a strong acid because it dissociates completely in water,correct
+I think X and Y are independent because both cannot happen on the same try,independence_confusion
+In my notes it says g(3) means g times 3,function_notation
+f(x+6) means we plug x+6 into the function f,correct
+I remember that the notation f(9) tells you to multiply the function by 9,function_notation
+f(x) = 5x + 1 so f(8) = 5x + 8,function_notation
+So HF is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+Basically the conjugate base of HF is OH-,conjugate_confusion
+HBr is a weak acid since its bond to hydrogen is too big to break,strong_weak_confusion
+g(x+7) means we plug x+7 into the function g,correct
+I think f(x) = 4x + 1 so f(2) = 4x + 2,function_notation
+So when HNO3 donates a proton you get NO3+ as the conjugate base,conjugate_confusion
+I remember that the conjugate acid of CO3 2- is H2CO3,conjugate_confusion
+Well since passing math rules out failing math the two events are independent,independence_confusion
+I remember that g(x) = 3x + 1 so g(4) = 3x + 4,function_notation
+I think the parentheses in h(x) mean multiply h and x,function_notation
+My answer is that g(x) = 2x + 1 so g(8) = 2x + 8,function_notation
+Basically HBr is a weak acid since it is not very reactive,strong_weak_confusion
+I think if P(rolling a 2 and rolling a 5) = 0 then rolling a 2 and rolling a 5 are independent,independence_confusion
+HCOOH is strong because the solution is concentrated,strong_weak_confusion
+g(x) = x + 2 means the output is the input plus 2,correct
+Basically if rain happens and sunshine cannot then rain and sunshine are independent,independence_confusion
+In my notes it says since getting heads rules out getting tails the two events are independent,independence_confusion
+Well h(5) means h times 5,function_notation
+In my notes it says if f(x) = 4x then f(x+1) = 4x + 1,function_notation
+My answer is that passing math and failing math are independent because both cannot happen on the same try,independence_confusion
+My answer is that f(x) = 3x + 1 so f(9) = 3x + 9,function_notation
+My answer is that h(5) is the output of h when the input is 5,correct
+I think HF completely dissociates in water so it is strong,strong_weak_confusion
+Well f(x) = 4x + 1 so f(3) = 4x + 3,function_notation
+Basically OH- is the conjugate base of HCl,conjugate_confusion
+I remember that g(8) means g times 8,function_notation
+Basically if g(x) = x^2 then g(x+4) = x^2 + 4,function_notation
+conjugate base of HF = F+,conjugate_confusion
+In my notes it says when HSO4- donates a proton you get H+ as the conjugate base,conjugate_confusion
+My answer is that the conjugate base of HNO3 is NO3-,correct
+Basically conjugate base of H2SO4 = OH-,conjugate_confusion
+In my notes it says if P(A) = 0.6 and P(B) = 0.5 then P(A or B) = 0.6 + 0.5 = 1.1 even if they overlap,probability_rule_misuse
+after HNO3 loses a proton you get NO3-,correct
+So HI is weak because the solution I made was dilute,strong_weak_confusion
+So f(x) = 5x + 1 so f(4) = 5x + 4,function_notation
+Well NH3 is the conjugate base of NH4+,correct
+I think conjugate base of H2SO4 = SO4 2-,conjugate_confusion
+In my notes it says after H2SO4 loses a proton you get HSO4-,correct
+h(x) and h are the same thing,function_notation
+Basically conjugate base of HCl = Cl-,correct
+So conjugate base of HBr = Br-,correct
+f(x+7) means f(x) + 7,function_notation
+In my notes it says f(5x) is just 5 times f(x) for every function,function_notation
+So O2- is the conjugate base of H2O,conjugate_confusion
+h(a+b) = h(a) + h(b) always,function_notation
+h(x) = x + 4 means the output is the input plus 4,correct
+I think conjugate base of H2O = O2-,conjugate_confusion
+HCOOH is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+when H2SO4 donates a proton you get H+ as the conjugate base,conjugate_confusion
+I remember that when HNO3 donates a proton you get OH- as the conjugate base,conjugate_confusion
+I remember that OH- is the conjugate acid of NH3,conjugate_confusion
+My answer is that CH3COOH is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+NH3+ is the conjugate acid of NH3,conjugate_confusion
+Basically conjugate base of HSO4- = H2SO4,conjugate_confusion
+So the conjugate base of HCl is OH-,conjugate_confusion
+In my notes it says cl- is the conjugate base of HCl,correct
+I remember that weak acids do not dissociate at all in water,strong_weak_confusion
+In my notes it says f(x+8) is not equal to f(x) + 8 unless f is linear with slope 1,correct
+h(x) means h multiplied by x,function_notation
+since drawing a king rules out drawing a queen the two events are independent,independence_confusion
+In my notes it says g(x) and g are the same thing,function_notation
+Well the notation g(7) tells you to multiply the function by 7,function_notation
+HClO4 is a weak acid since it is not very reactive,strong_weak_confusion
+g(x+3) is not equal to g(x) + 3 unless g is linear with slope 1,correct
+conjugate base of HF = F-,correct
+rolling a 2 and rolling a 5 are independent because both cannot happen on the same try,independence_confusion
+P(A) = 1.6 is possible if the event is very likely,probability_rule_misuse
+the notation f(2) tells you to multiply the function by 2,function_notation
+g(x+5) is not equal to g(x) + 5 unless g is linear with slope 1,correct
+I think A strong acid is just an acid with a high concentration,strong_weak_confusion
+H2SO4 is a strong acid because it dissociates completely in water,correct
+g(4) means g times 4,function_notation
+I think when HCN donates a proton you get OH- as the conjugate base,conjugate_confusion
+Basically HCN is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+when H2SO4 donates a proton you get SO4 2- as the conjugate base,conjugate_confusion
+I remember that rolling a die 4 times the chance of at least one six is 4/6,probability_rule_misuse
+I think HNO3 is weak because the solution I made was dilute,strong_weak_confusion
+when NH4+ donates a proton you get OH- as the conjugate base,conjugate_confusion
+In my notes it says HCN is strong because the solution is concentrated,strong_weak_confusion
+In my notes it says P(A) = 0.7 and P(B) = 0.5 so P(A or B) = 0.35,probability_rule_misuse
+In my notes it says H2SO4 is weak because it has a low concentration,strong_weak_confusion
+I remember that the conjugate base of NH4+ is NH3,correct
+My answer is that if E and F can happen together they must be dependent,independence_confusion
+I remember that the notation f(3) tells you to multiply the function by 3,function_notation
+In my notes it says H+ is the conjugate base of HF,conjugate_confusion
+I remember that f(x+3) means we plug x+3 into the function f,correct
+f(x+2) is the same as f(x) + f(2) for any function,function_notation
+Cl+ is the conjugate base of HCl,conjugate_confusion
+I think HNO2 is strong because it has a very low pH in my lab sample,strong_weak_confusion
+conjugate base of H2O = H+,conjugate_confusion
+My answer is that OH- is the conjugate base of HCN,conjugate_confusion
+h(x) = x + 8 means the output is the input plus 8,correct
+I think g(x) = 4x + 1 so g(9) = 4x + 9,function_notation
+I think after H3O+ loses a proton you get H2O,correct
+when HF donates a proton you get F+ as the conjugate base,conjugate_confusion
+f(6) means f times 6,function_notation
+My answer is that conjugate base of H3O+ = OH-,conjugate_confusion
+In my notes it says HBr is weak because the solution I made was dilute,strong_weak_confusion
+In my notes it says if P(passing math and failing math) = 0 then passing math and failing math are independent,independence_confusion
+I think h(3x) is just 3 times h(x) for every function,function_notation
+In my notes it says g(x+4) is the same as g(x) + g(4) for any function,function_notation
+if f(x) = x^2 then f(x+8) = x^2 + 8,function_notation
+In my notes it says H2CO3 is a strong acid because it has a very polar bond,strong_weak_confusion
+I remember that the conjugate base of CH3COOH is OH-,conjugate_confusion
+I think the conjugate acid of Cl- is Cl2,conjugate_confusion
+My answer is that if A and B are independent then they cannot happen together,independence_confusion
+So conjugate base of HCl = Cl+,conjugate_confusion
+f(9) is the output of f when the input is 9,correct
+after CH3COO- picks up a proton you get CH3COOH,correct
+Well OH+ is the conjugate acid of OH-,conjugate_confusion
+Basically h(x) = 5x + 1 so h(6) = 5x + 6,function_notation
+HNO3 is the conjugate acid of NO3-,correct
+h(x+4) is the same as h(x) + h(4) for any function,function_notation
+In my notes it says g(x) = 5x + 1 so g(4) = 5x + 4,function_notation
+f^-1(x) is the same as 1/f(x),function_notation
+g(x) = 5x + 1 so g(7) = 5x + 7,function_notation
+H2CO3 is a weak acid because it only partially dissociates,correct
+I remember that if rolling a 2 and rolling a 5 can happen together they must be dependent,independence_confusion
+Basically g(6) means g times 6,function_notation
+I remember that h(x) = 5x + 1 so h(7) = 5x + 7,function_notation
+Basically when HCl donates a proton you get Cl+ as the conjugate base,conjugate_confusion
+independent events have an empty intersection,independence_confusion
+Well P(A) = 0.8 and P(B) = 0.7 so P(A or B) = 0.56,probability_rule_misuse
+So CH3COOH is the conjugate acid of CH3COO-,correct
+So H2CO3 is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+OH- is the conjugate base of H3O+,conjugate_confusion
+I think conjugate base of CH3COOH = OH-,conjugate_confusion
+CH3COOH is strong because the solution is concentrated,strong_weak_confusion
+Well conjugate base of HF = H+,conjugate_confusion
+I think f(9) means f times 9,function_notation
+Basically the conjugate base of HSO4- is SO4+,conjugate_confusion
+f(x+4) means we plug x+4 into the function f,correct
+rolling a die 5 times the chance of at least one six is 5/6,probability_rule_misuse
+In my notes it says when H2SO4 donates a proton you get H3SO4+ as the conjugate base,conjugate_confusion
+In my notes it says if P(A) = 0.7 and P(B) = 0.5 then P(A and B) = 1.2,probability_rule_misuse
+CH3COOH is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+if P(A) = 0.7 and P(B) = 0.7 then P(A or B) = 0.7 + 0.7 = 1.4 even if they overlap,probability_rule_misuse
+when F- accepts a proton you get H+ as the conjugate acid,conjugate_confusion
+I remember that after HCl loses a proton you get Cl-,correct
+So CO3 2- is the conjugate base of HCO3-,correct
+So when H2O donates a proton you get H2 as the conjugate base,conjugate_confusion
+Basically the probability of A and B is always P(A) times P(B),probability_rule_misuse
+My answer is that since E rules out F the two events are independent,independence_confusion
+I think f(x) = x + 2 means the output is the input plus 2,correct
+In my notes it says when CO3 2- accepts a proton you get H2CO3 as the conjugate acid,conjugate_confusion
+I remember that rain and sunshine cannot both occur so they have no effect on each other and are independent,independence_confusion
+My answer is that the conjugate acid of OH- is H2O,correct
+My answer is that HI is a weak acid since it is not very reactive,strong_weak_confusion
+g(x+4) means g(x) + 4,function_notation
+I think CH3COO+ is the conjugate acid of CH3COO-,conjugate_confusion
+So H+ is the conjugate base of HCN,conjugate_confusion
+I remember that g(x) = 4x + 1 so g(5) = 4x + 5,function_notation
+P(B|A) = P(A and B) / P(B),probability_rule_misuse
+My answer is that if h(x) = 5x then h(x+1) = 5x + 1,function_notation
+Basically g(x) = 2x + 1 so g(5) = 2x + 5,function_notation
+HCN is a weak acid because it only partially dissociates,correct
+In my notes it says H2CO3 is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+The conjugate base of NH4+ is OH-,conjugate_confusion
+if drawing a king and drawing a queen can happen together they must be dependent,independence_confusion
+if P(A) = 0.6 and P(B) = 0.7 then P(A or B) = 0.6 + 0.7 = 1.3 even if they overlap,probability_rule_misuse
+My answer is that H2CO3 is strong because the solution is concentrated,strong_weak_confusion
+H2SO4 must be a weak acid because it has a high pH in diluted solution,strong_weak_confusion
+In my notes it says after HCN loses a proton you get CN-,correct
+H2F+ is the conjugate base of HF,conjugate_confusion
+My answer is that f(x+8) means we plug x+8 into the function f,correct
+when NH3 accepts a proton you get NH2- as the conjugate acid,conjugate_confusion
+f(3x) is just 3 times f(x) for every function,function_notation
+I think OH- is the conjugate base of H2SO4,conjugate_confusion
+Basically the conjugate base of HNO3 is H+,conjugate_confusion
+I think h(x+8) means h(x) + 8,function_notation
+In my notes it says when H2O donates a proton you get O2- as the conjugate base,conjugate_confusion
+after NH3 picks up a proton you get NH4+,correct
+I remember that g(x) = x + 5 means the output is the input plus 5,correct
+HClO is the conjugate acid of Cl-,conjugate_confusion
+H3O+ is the conjugate base of H2O,conjugate_confusion
+Well HClO completely dissociates in water so it is strong,strong_weak_confusion
+I think H+ is the conjugate base of H2O,conjugate_confusion
+In my notes it says when NH3 accepts a proton you get OH- as the conjugate acid,conjugate_confusion
+So H3PO4 is a strong acid since it is dangerous and corrosive,strong_weak_confusion
+In my notes it says conjugate base of HSO4- = SO4+,conjugate_confusion
+I remember that h(x+9) means h(x) + 9,function_notation
+flipping 6 coins the chance of all heads is 6 times 1/2,probability_rule_misuse
+Well NH4+ is the conjugate acid of NH3,correct
+So independent means P(drawing a king and drawing a queen) = 0,independence_confusion
+So if g(x) = 5x then g(x+1) = 5x + 1,function_notation
+Well P(A|B) = P(B|A) because conditioning is symmetric,probability_rule_misuse
+Basically independent means P(E and F) = 0,independence_confusion
+The conjugate base of H2SO4 is OH-,conjugate_confusion
+I think the notation f(8) tells you to multiply the function by 8,function_notation
+So the conjugate acid of CH3COO- is CH3COO+,conjugate_confusion
+I think conjugate base of H2O = H2,conjugate_confusion
+I remember that the conjugate acid of OH- is H3O+,conjugate_confusion
+Basically H3PO4 is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+Well NO2- is the conjugate base of HNO2,correct
+g(4) is the output of g when the input is 4,correct
+I remember that h(x) = 4x + 1 so h(7) = 4x + 7,function_notation
+Well if E happens and F cannot then E and F are independent,independence_confusion
+Well if f(x) = 5x then f(x+1) = 5x + 1,function_notation
+conjugate base of HNO3 = NO3+,conjugate_confusion
+The conjugate base of HSO4- is SO4 2-,correct
+HFO is the conjugate acid of F-,conjugate_confusion
+My answer is that H4O 2+ is the conjugate base of H3O+,conjugate_confusion
+My answer is that the conjugate base of HF is H2F+,conjugate_confusion
+after HBr loses a proton you get Br-,correct
+Well g(4x) is just 4 times g(x) for every function,function_notation
+Basically the conjugate base of H2O is H2,conjugate_confusion
+Basically if P(A) = 0.6 and P(B) = 0.7 then P(A and B) = 1.3,probability_rule_misuse
+conjugate base of NH4+ = NH4-,conjugate_confusion
+Well if E and F are independent then they cannot happen together,independence_confusion
+Basically f(x+6) means f(x) + 6,function_notation
+HNO2 completely dissociates in water so it is strong,strong_weak_confusion
+In my notes it says HSO4- is the conjugate acid of SO4 2-,correct
+So conjugate base of HCl = H+,conjugate_confusion
+I remember that NH4- is the conjugate base of NH4+,conjugate_confusion
+when Cl- accepts a proton you get Cl2 as the conjugate acid,conjugate_confusion
+So if P(A) = 0.7 and P(B) = 0.9 then P(A and B) = 1.6,probability_rule_misuse
+I remember that the conjugate acid of F- is H+,conjugate_confusion
+rolling a die 6 times the chance of at least one six is 6/6,probability_rule_misuse
+My answer is that HF is a strong acid because it has a lot of hydrogens,strong_weak_confusion
+In my notes it says if rolling a 2 and rolling a 5 are independent then they cannot happen together,independence_confusion
+So conjugate base of HNO3 = NO3-,correct
+conjugate base of H2O = OH-,correct
+I remember that f(2) is the output of f when the input is 2,correct
+the notation g(2) tells you to multiply the function by 2,function_notation
+Acid strength depends on how much acid you add to the water,strong_weak_confusion
+Well f(x) = 5x + 1 so f(6) = 5x + 6,function_notation
+Well conjugate base of HNO3 = OH-,conjugate_confusion
+My answer is that HBr is a weak acid because it only partly dissociates,strong_weak_confusion
+I think f(x+7) is the same as f(x) + f(7) for any function,function_notation
+conjugate base of HCl = OH-,conjugate_confusion
+if g(x) = x^2 then g(x+2) = x^2 + 2,function_notation
+Well conjugate base of HF = OH-,conjugate_confusion
+I remember that HNO2 is a strong acid because it has a very polar bond,strong_weak_confusion
+I remember that OH- is the conjugate base of H2O,correct
+I think f(x+5) means we plug x+5 into the function f,correct
+I think CH3COOH is a weak acid because it only partially dissociates,correct
+Well HNO3 is a weak acid since it is not very reactive,strong_weak_confusion
+My answer is that the notation g(3) tells you to multiply the function by 3,function_notation
+Well if h(x) = x^2 then h(x+9) = x^2 + 9,function_notation
+I think f(x+2) means we plug x+2 into the function f,correct
+I remember that when OH- accepts a proton you get OH+ as the conjugate acid,conjugate_confusion
+Well after CN- picks up a proton you get HCN,correct
+h(x) = x + 6 means the output is the input plus 6,correct
+SO4 2- is the conjugate base of H2SO4,conjugate_confusion
