@@ -65,16 +65,16 @@ f(x) means f multiplied by x,function_notation,function_notation
 g(x+1) = g(x) + g(1) for every function,function_notation,function_notation
 f(2x) is just 2f(x),function_notation,function_notation
 f(x+h) = f(x) + h,function_notation,function_notation
-If f(x)=x^2 then f(x+3) = x^2 + 3,function_notation,correct
+If f(x)=x^2 then f(x+3) = x^2 + 3,function_notation,function_notation
 f(a) f(b) and f(ab) are all the same thing,function_notation,correct
-f(x) = 3x + 1 so f(2) = 3x + 2,function_notation,correct
+f(x) = 3x + 1 so f(2) = 3x + 2,function_notation,function_notation
 f^-1(x) means 1/f(x),function_notation,function_notation
 f(g(x)) is the same as f(x) times g(x),function_notation,correct
 the parentheses in f(x) mean multiply,function_notation,function_notation
 f(x) = x^2 so f(a+b) = a^2 + b^2,function_notation,correct
 f(-x) is the same as -f(x) for all functions,function_notation,correct
-f(x) and f are the same thing,function_notation,correct
-if f(x) = 2x then f(x+1) = 2x + 1,function_notation,correct
+f(x) and f are the same thing,function_notation,function_notation
+if f(x) = 2x then f(x+1) = 2x + 1,function_notation,function_notation
 The notation f(4) tells you to multiply 4 by the function,function_notation,function_notation
 f(x)^2 and f(x^2) are the same,function_notation,correct
 f(3x) = 3 + f(x),function_notation,correct

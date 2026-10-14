@@ -39,6 +39,7 @@ RULES = [
     ("probability_rule_misuse", r"\d\.\d\s*\+\s*\d\.\d\s*=\s*1\.\d", None),
     ("probability_rule_misuse", r"P\(A\|B\)\s*=\s*P\(A and B\)\s*/\s*P\(A\)\s*$", None),
     ("probability_rule_misuse", r"without replacement.{0,60}original probabilities", None),
+    ("probability_rule_misuse", r"P\([^)]*\)\s*=\s*(1\.(?!0+\b)\d+|[2-9]\.\d+)", None),
 
     # --- function notation ---
     ("function_notation", r"\b([fgh])\(([^()]*\+[^()]*)\)\s*(=|means|is the same as|is)\s*\1\(", None),
@@ -47,12 +48,25 @@ RULES = [
     ("function_notation", r"\b([fgh])\(\d*x\)\s*(is|=)\s*(just )?\d+\s*\1\(x\)", None),
     ("function_notation", r"\^-1\(x\).{0,30}1\s*/", None),
     ("function_notation", r"tells you to multiply", None),
+    ("function_notation", r"\b([fgh])\(x\)\s*=\s*x\^2\s*(so|then)\s*\1\(x\s*\+\s*\d+\)\s*=\s*x\^2\s*\+\s*\d+\s*$", None),
+    ("function_notation", r"\b([fgh])\(x\)\s*=\s*(\d+)x\s*(so|then)\s*\1\(x\s*\+\s*\d+\)\s*=\s*\2x\s*\+\s*(?!\2\b)\d+\s*$", None),
+    ("function_notation", r"\b([fgh])\(\d*x\)\s*(is|=)\s*(just )?\d+\s*(times|\*)\s*\1\(x\)", r"linear|only|\bif\b"),
+    ("function_notation", r"\b([fgh])\(x\)\s*=.+\b\1\(\d+\)\s*=\s*[^=]*x", None),
+    ("function_notation", r"\b([fgh])\(\1\(x\)\)\s*(is|=)\s*(just )?\1\(x\)\s*(squared|\^2)", None),
+    ("function_notation", r"\b([fgh])\(x\) and \1 are the same", None),
 
     # --- conjugate pairs ---
     ("conjugate_confusion", r"conjugate base of \S+( \d-)? (is|=) (H\+|H3O\+|\S+\+)", None),
     ("conjugate_confusion", r"(H\+|\S+\+) is the conjugate base", None),
     ("conjugate_confusion", r"conjugate base.{0,40}(gains|gain|accepts|picks up) a proton", None),
     ("conjugate_confusion", r"conjugate.{0,40}electron", None),
+    ("conjugate_confusion", r"\bH\+ is the conjugate (acid|base)", None),
+    ("conjugate_confusion", r"conjugate (acid|base) of \S+(?: \d-)? (is|=) H\+", None),
+    ("conjugate_confusion", r"you get H\+ as the conjugate", None),
+    ("conjugate_confusion", r"you get \S+\+ as the conjugate base", None),
+    ("conjugate_confusion", r"conjugate base of (?!H2O\b)\S+(?: \d-)? (is|=) OH-", None),
+    ("conjugate_confusion", r"\bOH- is the conjugate base of (?!H2O\b)", None),
+    ("conjugate_confusion", r"when (?!H2O\b)\S+ donates a proton you get OH- as the conjugate base", None),
 
     # --- strong vs weak ---
     ("strong_weak_confusion", rf"\b({STRONG})\b.{{0,60}}\bweak\b", r"conjugate"),
