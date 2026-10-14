@@ -1,0 +1,18 @@
+{
+  "val": {
+    "accuracy": 0.7563,
+    "macro_f1": 0.7476
+  },
+  "test": {
+    "accuracy": 0.9417,
+    "macro_f1": 0.9373
+  },
+  "settings": {
+    "model": "distilbert-base-uncased",
+    "max_len": 64,
+    "batch_size": 16,
+    "epochs": 4,
+    "lr": 2e-05,
+    "seed": 42
+  }
+}
