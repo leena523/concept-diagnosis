@@ -1,0 +1,443 @@
+response_text,misconception_label,group_id,predicted,confidence
+Honestly NO2- is the conjugate base of HNO2.,correct,cj_p01,correct,0.918
+CH3COO- is the conjugate base of CH3COOH,correct,cj_p01,correct,0.949
+HSO4- is the conjugate base of H2SO4.,correct,cj_p01,correct,0.892
+Pretty sure Br- is the conjugate base of HBr,correct,cj_p01,correct,0.987
+CN- is the conjugate base of HCN.,correct,cj_p01,correct,0.989
+Well OH- is the conjugtae base of H2O,correct,cj_p01,correct,0.5
+I remember that CO3 2- is the conjugate base of HCO3-,correct,cj_p01,correct,0.794
+Basically Br- is the conjguate base of HBr,correct,cj_p01,correct,0.931
+HCO3- is the conjugate base of H2CO3.,correct,cj_p01,correct,0.888
+Pretty sure Cl- is the cnojugate base of HCl,correct,cj_p01,correct,0.955
+Honestly OH- is the conjugate base of H2O,correct,cj_p01,conjugate_confusion,0.619
+My answer is ClO- is the conjugate base of HClO.,correct,cj_p01,correct,0.747
+Okay so H2PO4- is the conjugate base of H3PO4.,correct,cj_p01,correct,0.984
+SO4 2- is the conjugate base of HSO4-.,correct,cj_p01,correct,0.965
+Basically CO3- is the conjguate base of HCO3-,conjugate_confusion,cj_p01,conjugate_confusion,0.866
+I remember that H2Cl+ is the conjugate base of HCl.,conjugate_confusion,cj_p01,conjugate_confusion,0.997
+Basically OH- is the conjugate base of HNO2,conjugate_confusion,cj_p01,conjugate_confusion,0.997
+HPO4 2- is the conjugate base of H3PO4,conjugate_confusion,cj_p01,conjugate_confusion,0.997
+Basically NH5+ is the conjugate base of NH4+,conjugate_confusion,cj_p01,conjugate_confusion,0.999
+Basically CN+ is the conjugate base of HCN.,conjugate_confusion,cj_p01,conjugate_confusion,0.99
+So SO4+ is the conjuagte base of HSO4-,conjugate_confusion,cj_p01,conjugate_confusion,0.959
+My answer is OH- is the conjugate base of HCN,conjugate_confusion,cj_p01,conjugate_confusion,0.985
+Basically OH- is the conjugate base of HBr,conjugate_confusion,cj_p01,conjugate_confusion,0.993
+H2CO3 is the conjugate base of HCO3-.,conjugate_confusion,cj_p01,correct,0.627
+So ClO+ is the conjugate base of HClO.,conjugate_confusion,cj_p01,conjugate_confusion,1.0
+H2CN+ is the conujgate base of HCN,conjugate_confusion,cj_p01,conjugate_confusion,0.869
+NO2+ is the conjugtae base of HNO2,conjugate_confusion,cj_p01,conjugate_confusion,0.981
+My answer is H+ is the conjugate base of HCl,conjugate_confusion,cj_p01,conjugate_confusion,0.999
+"when Cl- accepts a prootn you get HCl, which is its conjugate acid",correct,cj_p12,correct,0.695
+"I think when SO4 2- accetps a proton you get HSO4-, which is its conjugate acid.",correct,cj_p12,correct,0.952
+"I believe when CH3COO- accepts a proton you get CH3COOH, which is its cnojugate acid",correct,cj_p12,correct,0.766
+"Honestly when HCO3- accepts a proton you get H2CO3, which is its conjugate acid",correct,cj_p12,conjugate_confusion,0.683
+"I remember that when CN- accepts a proton you get HCN, which is its conjugate acid",correct,cj_p12,correct,0.798
+"when H2O accepts a proton you get H3O+, which is its conjugate acid",correct,cj_p12,correct,0.596
+"Well when CH3COO- accepts a proton you get CH3COOH, which is its conjugate acid",correct,cj_p12,correct,0.728
+"Basically when NO3- accepts a proton you get HNO3, which is its conjugate acid",correct,cj_p12,correct,0.646
+"Well when CO3 2- accepts a proton you get HCO3-, which is its conjugate acid.",correct,cj_p12,correct,0.754
+"when F- accepts a proton you get HF, which is its conjugate acid.",correct,cj_p12,correct,0.634
+"when F- accepts a porton you get HF, which is its conjugate acid",correct,cj_p12,correct,0.514
+"Pretty sure when SO4 2- accepts a proton you get HSO4-, which is its conjugate acid.",correct,cj_p12,correct,0.837
+"Okay so when HCO3- accepts a proton you get H2CO3, which is its conujgate acid.",correct,cj_p12,correct,0.583
+"Okay so when NO3- accepts a proton you get HNO3, which is its cojnugate acid.",correct,cj_p12,correct,0.817
+"when HCO3- accepts a proton you get CO3 2-, which is its conjugate acid.",conjugate_confusion,cj_p12,correct,0.724
+"I remember that when F- accepts a proton you get F2, which is its conjugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.65
+"when CO3 2- accepts a proton you get CO3-, which is its conjugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.983
+"Pretty sure when CO3 2- accepts a proton you get CO2, which is its conjuagte acid",conjugate_confusion,cj_p12,conjugate_confusion,0.997
+"Basically when F- accepts a proton you get HFO, which is its conujgate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.611
+"Well when CN- accepts a proton you get H+, which is its cojnugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.994
+"Basically when OH- accepts a proton you get H3O+, which is its conjugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.996
+"Okay so when CH3COO- accepts a proton you get H+, which is its cojnugate acid.",conjugate_confusion,cj_p12,conjugate_confusion,0.981
+"I believe when CO3 2- accepts a proton you get H2CO3, which is its conjugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.972
+"Basically when CH3COO- accepts a proton you get CH3COOH2+, which is its conjugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.981
+"I think when HCO3- accepts a proton you get CO2, which is its conjugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.959
+"Basically when CH3COO- accepts a proton you get H+, which is its conjugate acid",conjugate_confusion,cj_p12,conjugate_confusion,0.995
+"Okay so when HCO3- accepts a proton you get CO2, which is its cojnugate acid.",conjugate_confusion,cj_p12,conjugate_confusion,0.911
+"when NO3- accepts a proton you get OH-, which is its conjugate acid.",conjugate_confusion,cj_p12,conjugate_confusion,0.988
+My answer is the conjugate base of a strong acid is a very weak base,correct,cj_p19,correct,0.955
+My answer is the conjugate base of a storng acid is a very weak base,correct,cj_p19,correct,0.96
+the conjugate base of a srtong acid is a very weak base,correct,cj_p19,correct,0.982
+Well the cojnugate base of a strong acid is a very weak base,correct,cj_p19,correct,0.976
+Pretty sure the conjugate base of a strnog acid is a very weak base.,correct,cj_p19,correct,0.974
+I remmeber that the conjugate base of a strong acid is a very weak base,correct,cj_p19,correct,0.979
+the conjugate base of a strong acid is a strong base.,conjugate_confusion,cj_p19,correct,0.927
+the conjugate base of a storng acid is a strong base.,conjugate_confusion,cj_p19,correct,0.946
+the conjugate base of a strnog acid is a strong base.,conjugate_confusion,cj_p19,correct,0.815
+Honestly the conjuagte base of a strong acid is a strong base,conjugate_confusion,cj_p19,correct,0.908
+So the cojnugate base of a strong acid is a strong base,conjugate_confusion,cj_p19,correct,0.955
+the conujgate base of a strong acid is a strong base,conjugate_confusion,cj_p19,correct,0.991
+a conjugate base is formed when an acid loses a proton,correct,cj_p21,conjugate_confusion,0.967
+My answer is a conjugate base is fomred when an acid loses a proton,correct,cj_p21,conjugate_confusion,0.967
+Pretty sure a conjugate base is formed when an acid loses a prtoon,correct,cj_p21,conjugate_confusion,0.797
+Basically a conjugate base is foremd when an acid loses a proton,correct,cj_p21,conjugate_confusion,0.961
+Basically a conjguate base is formed when an acid loses a proton,correct,cj_p21,conjugate_confusion,0.958
+I believe a conjugate base is fromed when an acid loses a proton,correct,cj_p21,conjugate_confusion,0.968
+a conjugate base is formed when an acid gains a proton,conjugate_confusion,cj_p21,correct,0.91
+My answer is a conjugate base is formed when an acid gains a porton.,conjugate_confusion,cj_p21,correct,0.743
+I believe a conjuagte base is formed when an acid gains a proton,conjugate_confusion,cj_p21,correct,0.814
+Okay so a conujgate base is formed when an acid gains a proton,conjugate_confusion,cj_p21,correct,0.962
+a conjugate base is formed when an acid gains a prootn,conjugate_confusion,cj_p21,correct,0.92
+I remember that a cojnugate base is formed when an acid gains a proton,conjugate_confusion,cj_p21,correct,0.94
+"Pretty sure stregnth is about how much an acid dissociates, not how concentrated it is",correct,sw_p00,strong_weak_confusion,0.951
+"Basically strength is about how much an acid dissociates, not how concenrtated it's",correct,sw_p00,strong_weak_confusion,0.951
+"I think strength is about how much an acid dissociates, not how concentrated it is",correct,sw_p00,strong_weak_confusion,0.966
+"I think strength is about how much an acid dissociates, not how concentrated it's",correct,sw_p00,strong_weak_confusion,0.984
+"stregnth is about how much an acid dissociates, not how concentrated it's.",correct,sw_p00,strong_weak_confusion,0.986
+"strength is about how much an acid dissociaets, not how concentrated it's",correct,sw_p00,strong_weak_confusion,0.996
+Pretty sure a strong acid is just an acid with a high concentration,strong_weak_confusion,sw_p00,correct,0.579
+I rmeember that a strong acid is just an acid with a high concentration.,strong_weak_confusion,sw_p00,strong_weak_confusion,0.705
+I beleive a strong acid is just an acid with a high concentration.,strong_weak_confusion,sw_p00,correct,0.636
+a strong acid is just an acid with a high concentartion,strong_weak_confusion,sw_p00,strong_weak_confusion,0.537
+Pretty sure a strong acid is just an acid with a high cnocentration,strong_weak_confusion,sw_p00,correct,0.656
+a storng acid is just an acid with a high concentration,strong_weak_confusion,sw_p00,correct,0.729
+"f^-1 is the inverse function of f, not 1 over f(x).",correct,fn_p05,function_notation,0.854
+"g^-1 is the inevrse function of g, not 1 over g(x)",correct,fn_p05,function_notation,0.883
+"Okay so f^-1 is the invesre function of f, not 1 over f(x).",correct,fn_p05,function_notation,0.899
+"g^-1 is the inverse function of g, not 1 over g(x)",correct,fn_p05,function_notation,0.904
+"Honestly h^-1 is the inverse funciton of h, not 1 over h(x)",correct,fn_p05,function_notation,0.657
+"Okay so h^-1 is the inverse function of h, not 1 over h(x).",correct,fn_p05,function_notation,0.903
+"Okay so g^-1 is the inverse funtcion of g, not 1 over g(x)",correct,fn_p05,function_notation,0.86
+"g^-1 is the invrese function of g, not 1 over g(x)",correct,fn_p05,function_notation,0.919
+"Honestly f^-1 is the inevrse function of f, not 1 over f(x)",correct,fn_p05,function_notation,0.747
+"Basically g^-1 is the inverse fnuction of g, not 1 over g(x)",correct,fn_p05,function_notation,0.784
+"I rmeember that f^-1 is the inverse function of f, not 1 over f(x).",correct,fn_p05,function_notation,0.862
+"I remember that h^-1 is the invrese function of h, not 1 over h(x)",correct,fn_p05,function_notation,0.833
+"I think g^-1 is the invesre function of g, not 1 over g(x)",correct,fn_p05,function_notation,0.818
+"h^-1 is the ivnerse function of h, not 1 over h(x).",correct,fn_p05,function_notation,0.815
+So h^-1(x) is the same as 1/h(x),function_notation,fn_p05,function_notation,0.982
+Basically f^-1(x) is the same as 1/f(x).,function_notation,fn_p05,function_notation,0.908
+I believe g^-1(x) is the same as 1/g(x),function_notation,fn_p05,function_notation,0.871
+I remmeber that h^-1(x) is the same as 1/h(x).,function_notation,fn_p05,function_notation,0.846
+I belivee f^-1(x) is the same as 1/f(x),function_notation,fn_p05,function_notation,0.896
+I remmeber that f^-1(x) is the same as 1/f(x).,function_notation,fn_p05,function_notation,0.86
+I beleive f^-1(x) is the same as 1/f(x),function_notation,fn_p05,function_notation,0.841
+I remmeber that g^-1(x) is the same as 1/g(x),function_notation,fn_p05,function_notation,0.905
+I rememebr that f^-1(x) is the same as 1/f(x),function_notation,fn_p05,function_notation,0.957
+I remebmer that f^-1(x) is the same as 1/f(x).,function_notation,fn_p05,function_notation,0.923
+I remebmer that g^-1(x) is the same as 1/g(x).,function_notation,fn_p05,function_notation,0.938
+My ansewr is f^-1(x) is the same as 1/f(x),function_notation,fn_p05,function_notation,0.954
+My asnwer is h^-1(x) is the same as 1/h(x).,function_notation,fn_p05,function_notation,0.978
+My anwser is g^-1(x) is the same as 1/g(x).,function_notation,fn_p05,function_notation,0.909
+My answer is P(A or B) = P(A) + P(B) - P(A and B),correct,pr_p00,probability_rule_misuse,0.995
+Okay so P(E or F) = P(E) + P(F) - P(E and F),correct,pr_p00,probability_rule_misuse,0.999
+P(A or C) = P(A) + P(C) - P(A and C),correct,pr_p00,probability_rule_misuse,0.997
+Pretty sure P(X or Y) = P(X) + P(Y) - P(X and Y).,correct,pr_p00,probability_rule_misuse,0.996
+I beileve P(E or F) = P(E) + P(F) - P(E and F).,correct,pr_p00,probability_rule_misuse,0.997
+I bleieve P(A or C) = P(A) + P(C) - P(A and C).,correct,pr_p00,probability_rule_misuse,0.993
+I rmeember that P(A or B) = P(A) + P(B) - P(A and B),correct,pr_p00,probability_rule_misuse,0.999
+I remmeber that P(X or Y) = P(X) + P(Y) - P(X and Y),correct,pr_p00,probability_rule_misuse,0.998
+I belivee P(A or B) = P(A) + P(B) - P(A and B),correct,pr_p00,probability_rule_misuse,0.999
+My anwser is P(A or C) = P(A) + P(C) - P(A and C),correct,pr_p00,probability_rule_misuse,0.993
+I belivee P(A or C) = P(A) + P(C) - P(A and C),correct,pr_p00,probability_rule_misuse,0.999
+My ansewr is P(A or C) = P(A) + P(C) - P(A and C),correct,pr_p00,probability_rule_misuse,0.997
+I reemmber that P(E or F) = P(E) + P(F) - P(E and F).,correct,pr_p00,probability_rule_misuse,0.996
+My answer is P(X or Y) = P(X) + P(Y) no matter what the events are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.896
+My answer is P(A or B) = P(A) + P(B) no matter what the evetns are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.956
+I rememebr that P(X or Y) = P(X) + P(Y) no matter what the events are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.876
+So P(X or Y) = P(X) + P(Y) no matter what the evnets are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.978
+Okay so P(A or B) = P(A) + P(B) no matter what the events are.,probability_rule_misuse,pr_p00,probability_rule_misuse,0.978
+Basically P(A or C) = P(A) + P(C) no matter what the events are.,probability_rule_misuse,pr_p00,probability_rule_misuse,0.915
+Honestly P(A or C) = P(A) + P(C) no matter what the eevnts are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.956
+Pretty sure P(A or B) = P(A) + P(B) no matter what the evnets are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.96
+P(X or Y) = P(X) + P(Y) no matetr what the events are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.921
+Okay so P(X or Y) = P(X) + P(Y) no matter what the eevnts are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.977
+Pretty sure P(E or F) = P(E) + P(F) no matter what the events are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.967
+So P(E or F) = P(E) + P(F) no matter what the evetns are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.992
+Honestly P(A or C) = P(A) + P(C) no mtater what the events are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.924
+P(A or C) = P(A) + P(C) no matetr what the events are,probability_rule_misuse,pr_p00,probability_rule_misuse,0.919
+P(A|C) and P(C|A) are usually different.,correct,pr_p03,correct,0.999
+Pretty sure P(A|B) and P(B|A) are usually different,correct,pr_p03,correct,0.999
+My answer is P(E|F) and P(F|E) are usually diffeernt,correct,pr_p03,correct,0.999
+I remember that P(A|B) and P(B|A) are usually difefrent.,correct,pr_p03,correct,0.998
+P(X|Y) and P(Y|X) are usually different,correct,pr_p03,correct,1.0
+P(A|B) and P(B|A) are uusally different,correct,pr_p03,correct,1.0
+My asnwer is P(A|C) and P(C|A) are usually different.,correct,pr_p03,correct,0.999
+Pretty sure P(E|F) and P(F|E) are usually different,correct,pr_p03,correct,0.999
+I think P(E|F) and P(F|E) are usulaly different,correct,pr_p03,correct,0.999
+So P(A|B) and P(B|A) are usually dfiferent,correct,pr_p03,correct,0.999
+P(A|C) and P(C|A) are uusally different,correct,pr_p03,correct,1.0
+I think P(E|F) and P(F|E) are uusally different,correct,pr_p03,correct,0.999
+P(A|C) and P(C|A) are usually differnet,correct,pr_p03,correct,1.0
+P(E|F) and P(F|E) are usually differnet,correct,pr_p03,correct,0.999
+P(E|F) and P(F|E) are always equal.,probability_rule_misuse,pr_p03,correct,0.992
+Honestly P(X|Y) and P(Y|X) are always equal.,probability_rule_misuse,pr_p03,correct,0.995
+I rememebr that P(A|C) and P(C|A) are always equal.,probability_rule_misuse,pr_p03,correct,0.992
+My answer is P(X|Y) and P(Y|X) are awlays equal,probability_rule_misuse,pr_p03,correct,0.997
+P(A|C) and P(C|A) are always equal,probability_rule_misuse,pr_p03,correct,0.997
+I think P(A|B) and P(B|A) are always equal,probability_rule_misuse,pr_p03,correct,0.996
+So P(X|Y) and P(Y|X) are alwyas equal,probability_rule_misuse,pr_p03,correct,0.996
+So P(A|C) and P(C|A) are alwyas equal,probability_rule_misuse,pr_p03,correct,0.994
+Okay so P(A|B) and P(B|A) are alwyas equal,probability_rule_misuse,pr_p03,correct,0.991
+Honestly P(A|C) and P(C|A) are awlays equal,probability_rule_misuse,pr_p03,correct,0.995
+P(E|F) and P(F|E) are alawys equal,probability_rule_misuse,pr_p03,correct,0.995
+P(E|F) and P(F|E) are alwyas equal.,probability_rule_misuse,pr_p03,correct,0.995
+So P(A|B) and P(B|A) are alawys equal,probability_rule_misuse,pr_p03,correct,0.991
+P(X|Y) and P(Y|X) are alawys equal,probability_rule_misuse,pr_p03,correct,0.998
+P(A|B) means the probability of A given that B happened,correct,pr_p11,correct,0.838
+Okay so P(A|C) means the probability of A given that C happened,correct,pr_p11,probability_rule_misuse,0.666
+Okay so P(E|F) means the probability of E given that F happened,correct,pr_p11,probability_rule_misuse,0.784
+Okay so P(X|Y) means the probability of X given that Y hapepned.,correct,pr_p11,probability_rule_misuse,0.901
+P(X|Y) means the probability of X given that Y hpapened.,correct,pr_p11,probability_rule_misuse,0.69
+Honestly P(X|Y) means the probability of X given that Y happened,correct,pr_p11,probability_rule_misuse,0.696
+Well P(X|Y) means the probability of X given that Y happneed,correct,pr_p11,probability_rule_misuse,0.865
+I remember that P(A|C) means the probaiblity of A given that C happened.,correct,pr_p11,correct,0.789
+So P(X|Y) means the probabiltiy of X given that Y happened.,correct,pr_p11,probability_rule_misuse,0.62
+My answer is P(X|Y) means the probability of X given that Y happeend,correct,pr_p11,probability_rule_misuse,0.629
+I remember that P(A|B) means the porbability of A given that B happened,correct,pr_p11,correct,0.931
+P(A|C) means the probabliity of A given that C happened.,correct,pr_p11,correct,0.809
+P(E|F) means the prboability of E given that F happened.,correct,pr_p11,correct,0.746
+My answer is P(A|C) means the probability of A given that C happneed,correct,pr_p11,correct,0.532
+I think P(A|C) means P(A) dviided by P(C),probability_rule_misuse,pr_p11,probability_rule_misuse,0.962
+Well P(A|C) means P(A) divided by P(C).,probability_rule_misuse,pr_p11,probability_rule_misuse,0.989
+So P(X|Y) means P(X) diviedd by P(Y).,probability_rule_misuse,pr_p11,probability_rule_misuse,0.976
+Pretty sure P(X|Y) means P(X) dviided by P(Y),probability_rule_misuse,pr_p11,probability_rule_misuse,0.971
+P(X|Y) means P(X) divided by P(Y),probability_rule_misuse,pr_p11,probability_rule_misuse,0.982
+My answer is P(E|F) means P(E) divided by P(F),probability_rule_misuse,pr_p11,probability_rule_misuse,0.982
+I believe P(A|B) means P(A) divided by P(B).,probability_rule_misuse,pr_p11,probability_rule_misuse,0.985
+P(A|C) means P(A) diviedd by P(C),probability_rule_misuse,pr_p11,probability_rule_misuse,0.97
+My answer is P(X|Y) means P(X) diivded by P(Y).,probability_rule_misuse,pr_p11,probability_rule_misuse,0.945
+P(E|F) means P(E) dviided by P(F),probability_rule_misuse,pr_p11,probability_rule_misuse,0.975
+Okay so P(E|F) means P(E) divdied by P(F),probability_rule_misuse,pr_p11,probability_rule_misuse,0.99
+I bleieve P(X|Y) means P(X) divided by P(Y),probability_rule_misuse,pr_p11,probability_rule_misuse,0.974
+My answer is P(X|Y) means P(X) divdied by P(Y),probability_rule_misuse,pr_p11,probability_rule_misuse,0.954
+Basically P(E|F) means P(E) diivded by P(F).,probability_rule_misuse,pr_p11,probability_rule_misuse,0.973
+"I believe events that never overlap are mutually exclusive, not independent",correct,ind_p07,correct,0.912
+"Honestly events that never overlap are mutually exclusvie, not independent",correct,ind_p07,correct,0.921
+"Honestly events that never ovrelap are mutually exclusive, not independent",correct,ind_p07,correct,0.835
+"events that never overlap are mutually exculsive, not independent",correct,ind_p07,correct,0.862
+"I remember that eevnts that never overlap are mutually exclusive, not independent",correct,ind_p07,correct,0.964
+"events that never overlap are mutually ecxlusive, not independent",correct,ind_p07,correct,0.946
+Pretty sure events that never overlap are independent.,independence_confusion,ind_p07,independence_confusion,0.986
+Okay so events that never overlap are indepenednt,independence_confusion,ind_p07,independence_confusion,0.758
+I remember that events that never ovelrap are independent,independence_confusion,ind_p07,independence_confusion,0.991
+Well eevnts that never overlap are independent,independence_confusion,ind_p07,independence_confusion,0.931
+I bleieve events that never overlap are independent.,independence_confusion,ind_p07,independence_confusion,0.989
+Honestly evnets that never overlap are independent,independence_confusion,ind_p07,independence_confusion,0.926
+"H2SO4 is a strong acid, since it ionizes essentially 100% in water.",correct,sw_f00,strong_weak_confusion,0.654
+Okay so HCN is a weak acid,correct,sw_f00,correct,1.0
+HBr is a strong acid because nearly all of its molecules ionize in water,correct,sw_f00,correct,0.83
+Pretty sure HClO4 is a strong acid,correct,sw_f00,correct,0.993
+Basically H2SO4 is a strong acid.,correct,sw_f00,correct,0.991
+"Honestly H2CO3 is a weak acid, since it only partially dissociates.",correct,sw_f00,strong_weak_confusion,0.916
+Okay so H2SO4 is a strong acid because it ionizes essentially 100% in water,correct,sw_f00,strong_weak_confusion,0.528
+"I think HI is a strong acid, since it ionizes essentially 100% in water.",correct,sw_f00,correct,0.825
+So HI is a storng acid because it ionizes essentially 100% in water.,correct,sw_f00,correct,0.761
+"My answer is H2SO4 is a strong acid, since it dissociates completely in water",correct,sw_f00,strong_weak_confusion,0.797
+HClO is a weak acid,correct,sw_f00,correct,1.0
+I believe HNO3 is a strong acid because nearly all of its molecules ionize in water,correct,sw_f00,strong_weak_confusion,0.909
+"Pretty sure HClO is a weak acid, since most of its molecules stay intact in water.",correct,sw_f00,correct,0.899
+Well HCl is a strong acid because nearly all of its molecules ionize in water,correct,sw_f00,strong_weak_confusion,0.773
+Okay so HCl is a strong acid,correct,sw_f00,correct,1.0
+My asnwer is HNO2 is a weak acid because most of its molecules stay intact in water,correct,sw_f00,strong_weak_confusion,0.733
+I believe CH3COOH is a weak acid,correct,sw_f00,correct,1.0
+"HNO3 is a strong acid, since nearly all of its molecules ionize in water",correct,sw_f00,strong_weak_confusion,0.879
+Well CH3COOH is a weak acid because most of its molecules stay intcat in water,correct,sw_f00,correct,0.916
+I think HI is a strong acid,correct,sw_f00,correct,1.0
+I remember that H2CO3 is a weak acid,correct,sw_f00,correct,0.934
+So H2CO3 is a weak acid because only a small fraction of its molecuels ionize,correct,sw_f00,correct,0.776
+"Honestly HCl is a strong acid, since nearly all of its molecules ionize in water.",correct,sw_f00,correct,0.536
+HNO2 is a weak acid,correct,sw_f00,correct,0.966
+I remember that HCOOH is a weak acid because it only partially dissociates,correct,sw_f00,strong_weak_confusion,0.786
+HBr is a strong acid.,correct,sw_f00,correct,1.0
+So HCOOH is a weak acid,correct,sw_f00,correct,0.962
+HNO3 is a strong acid.,correct,sw_f00,correct,0.963
+My answer is HF is a weak acid because it only partially dissociates,correct,sw_f00,strong_weak_confusion,0.791
+"HClO is a weak acid, since only a small fraction of its molecules ionize",correct,sw_f00,correct,0.838
+My answer is HNO3 is a srtong acid,correct,sw_f00,correct,0.989
+HI is a strong acid becasue it ionizes essentially 100% in water.,correct,sw_f00,correct,0.976
+I remember that HNO2 is a weak acid because most of its molecules stay intact in water,correct,sw_f00,strong_weak_confusion,0.768
+Honestly HClO is a weak acid because it only partially dissociates.,correct,sw_f00,correct,0.795
+"Basically HI is a strong acid, since it dissocaites completely in water",correct,sw_f00,correct,0.925
+Okay so H2CO3 is a weak acid because only a small fraction of its molecules ionize,correct,sw_f00,strong_weak_confusion,0.745
+"Honestly HNO3 is a strong acid, since it ioinzes essentially 100% in water",correct,sw_f00,strong_weak_confusion,0.92
+"HI is a strong acid, since it dissociates completely in water.",correct,sw_f00,correct,0.745
+"HBr is a strong acid, since nearly all of its molecules ionize in water",correct,sw_f00,correct,0.763
+Basically CH3COOH is a weak acid becasue it only partially dissociates.,correct,sw_f00,correct,0.983
+"HBr is a strong acid, since only a small fraction of its molecules ionize",strong_weak_confusion,sw_f00,correct,0.587
+"So H3PO4 is a strong acid, since the soultion is concentrated",strong_weak_confusion,sw_f00,strong_weak_confusion,0.989
+"Pretty sure H2SO4 is a weak acid, since a drop of it barely stings on skin.",strong_weak_confusion,sw_f00,strong_weak_confusion,0.998
+HCl is a strong acid because most of its molecules stay intact in water,strong_weak_confusion,sw_f00,correct,0.631
+"Okay so HCN is a strong acid, since it ionizes essentially 100% in water",strong_weak_confusion,sw_f00,correct,0.891
+"Pretty sure H3PO4 is a weak acid, since it dissociates completely in water",strong_weak_confusion,sw_f00,correct,0.612
+So HNO3 is a strong acid because the solution I made was dilute,strong_weak_confusion,sw_f00,strong_weak_confusion,1.0
+"Okay so CH3COOH is a strong acid, since it has a lot of hydrogens",strong_weak_confusion,sw_f00,strong_weak_confusion,0.988
+"My answer is HCl is a weak acid, since most of its molecules stay intact in water",strong_weak_confusion,sw_f00,correct,0.697
+Honestly HCOOH is a strong acid because a drop of it barely stings on skin,strong_weak_confusion,sw_f00,strong_weak_confusion,0.999
+"Honestly HNO2 is a strong acid, since it ioniezs essentially 100% in water",strong_weak_confusion,sw_f00,strong_weak_confusion,0.93
+"Basically HF is a strong acid, since a drop of it barely stings on skin.",strong_weak_confusion,sw_f00,strong_weak_confusion,0.999
+Well HCl is a strong acid because the solution I made was dilute,strong_weak_confusion,sw_f00,strong_weak_confusion,1.0
+"Honestly CH3COOH is a strong acid, since it ionizes essentially 100% in water",strong_weak_confusion,sw_f00,correct,0.809
+So H3PO4 is a weak acid because it dissoicates completely in water.,strong_weak_confusion,sw_f00,strong_weak_confusion,0.691
+HI is a weak acid because it only partially dissociates,strong_weak_confusion,sw_f00,correct,0.895
+"Basically HClO is a weak acid, since it contains a very electrnoegative atom",strong_weak_confusion,sw_f00,strong_weak_confusion,0.952
+Well HClO is a strong acid beacuse it ionizes essentially 100% in water,strong_weak_confusion,sw_f00,correct,0.979
+HNO2 is a weak acid because the solution is concentrated.,strong_weak_confusion,sw_f00,strong_weak_confusion,1.0
+"My answer is HF is a weak acid, since a drop of it barely stings on skin.",strong_weak_confusion,sw_f00,strong_weak_confusion,0.999
+"HNO3 is a strong acid, since a drop of it barely stings on skin",strong_weak_confusion,sw_f00,strong_weak_confusion,1.0
+"HCl is a strong acid, since it has a lot of hydrogens",strong_weak_confusion,sw_f00,strong_weak_confusion,0.999
+I believe CH3COOH is a strong acid because nearly all of its molecules ionize in water,strong_weak_confusion,sw_f00,correct,0.887
+H3PO4 is a strong acid because nearly all of its molecules ionize in water,strong_weak_confusion,sw_f00,correct,0.783
+CH3COOH is a weak acid because it ionizes essentially 100% in water.,strong_weak_confusion,sw_f00,correct,0.816
+HClO4 is a strong acid because it is danegrous and corrosive,strong_weak_confusion,sw_f00,strong_weak_confusion,0.999
+I believe HF is a strong acid becuase the solution I made was dilute,strong_weak_confusion,sw_f00,strong_weak_confusion,0.985
+"HNO2 is a strong acid, since nearly all of its molecules ionize in water.",strong_weak_confusion,sw_f00,strong_weak_confusion,0.915
+"I believe HCOOH is a weak acid, since it ionzies essentially 100% in water.",strong_weak_confusion,sw_f00,strong_weak_confusion,0.619
+Well H2CO3 is a strong acid because it reacts with metals,strong_weak_confusion,sw_f00,strong_weak_confusion,1.0
+I believe CH3COOH is a strong acid because the solution is concentrated.,strong_weak_confusion,sw_f00,strong_weak_confusion,0.981
+"HCl is a strong acid, since it only partially dissociates",strong_weak_confusion,sw_f00,correct,0.649
+I remember that HCN is a weak acid because it is poisonous.,strong_weak_confusion,sw_f00,strong_weak_confusion,0.99
+H2CO3 is a strong acid because nearly all of its molecules ionize in water.,strong_weak_confusion,sw_f00,strong_weak_confusion,0.892
+Pretty sure H2SO4 is a weak acid because only a small fraction of its molecules ionize.,strong_weak_confusion,sw_f00,strong_weak_confusion,0.549
+"Okay so H2CO3 is a strong acid, since it dissociates completely in water.",strong_weak_confusion,sw_f00,strong_weak_confusion,0.919
+I believe HNO3 is a strong acid because only a small fraction of its molecules ionize,strong_weak_confusion,sw_f00,strong_weak_confusion,0.915
+"Pretty sure HNO3 is a strong acid, since it is dangerous and corrsoive",strong_weak_confusion,sw_f00,strong_weak_confusion,1.0
+Well HCOOH is a weak acid because it dissociates completely in water.,strong_weak_confusion,sw_f00,strong_weak_confusion,0.943
+Honestly HCl is a strong acid because it's dangerous and corrosive,strong_weak_confusion,sw_f00,strong_weak_confusion,0.999
+Okay so a probability is always between 0 and 1,correct,cor_08,probability_rule_misuse,0.868
+Okay so mutually exclusive events can't happen at the same time,correct,cor_09,correct,0.825
+So if getting heads and getting tails are independent then knowing getting heads happened does not change P(getting tails).,correct,cor_15,correct,0.972
+a probability is awlays between 0 and 1.,correct,cor_08,probability_rule_misuse,0.898
+I believe mutually exclusive events cannot happen at the same time,correct,cor_09,correct,0.587
+My answer is if rolling a 2 and rolling a 5 are independent then knowing rolling a 2 happened doesn't change P(rolling a 5),correct,cor_15,correct,0.915
+a probability is alawys between 0 and 1,correct,cor_08,probability_rule_misuse,0.685
+mutually exclusive evnets cannot happen at the same time,correct,cor_09,correct,0.863
+Honestly if a red card and a black card are independent then knowing a red card happened does not change P(a black card).,correct,cor_15,correct,0.973
+I believe a probaiblity is always between 0 and 1,correct,cor_08,probability_rule_misuse,0.656
+Okay so mutually exclusive events cant happen at the same time,correct,cor_09,correct,0.651
+I think if getting heads and getting tails are independent then knowing getting heads happened doesnt change P(getting tails).,correct,cor_15,correct,0.967
+Well a probability is alwyas between 0 and 1.,correct,cor_08,probability_rule_misuse,0.915
+mutulaly exclusive events cannot happen at the same time.,correct,cor_09,correct,0.56
+if passing the quiz and failing the quiz are independent then knowing passing the quiz happened does not change P(failing the quiz),correct,cor_15,correct,0.955
+a probability is always bteween 0 and 1.,correct,cor_08,probability_rule_misuse,0.94
+I think mutually exclusive events cannot hpapen at the same time,correct,cor_09,correct,0.641
+if X and Y are independent then knowing X happened does not change P(Y).,correct,cor_15,correct,0.998
+Well a probabiilty is always between 0 and 1.,correct,cor_08,probability_rule_misuse,0.842
+Pretty sure mutually excluisve events cannot happen at the same time,correct,cor_09,correct,0.813
+So if A and B are independent then knowing A happened does not change P(B),correct,cor_15,correct,0.996
+Basically a probabiltiy is always between 0 and 1.,correct,cor_08,probability_rule_misuse,0.841
+My answer is mutually exclusive evetns cannot happen at the same time,correct,cor_09,correct,0.842
+I believe if getting heads and getting tails are independent then knowing getting heads happened doesn't change P(getting tails).,correct,cor_15,correct,0.94
+I believe a probability is always bewteen 0 and 1,correct,cor_08,probability_rule_misuse,0.827
+mutually exclusive eevnts can't happen at the same time.,correct,cor_09,correct,0.855
+I remember that if X and Y are indepnedent then knowing X happened does not change P(Y),correct,cor_15,correct,0.997
+Pretty sure a probabliity is always between 0 and 1.,correct,cor_08,probability_rule_misuse,0.919
+Basically mutually exclusive evetns can't happen at the same time,correct,cor_09,correct,0.899
+Okay so if E and F are independent then knowing E happened doesnt change P(F),correct,cor_15,correct,0.997
+if X and Y are independent then knowing X happened doesnt change P(Y),correct,cor_15,correct,0.995
+I remember that if a red card and a black card are independent then knowing a red card happened doesnt chnage P(a black card),correct,cor_15,correct,0.825
+Okay so if a red card and a black card are independent then knowing a red card happened doesnt change P(a black card),correct,cor_15,correct,0.949
+I remember that if E and F are independent then knowing E happened does not change P(F),correct,cor_15,correct,0.997
+if a red card and a black card are independent then knowing a red card happened doesn't change P(a black card).,correct,cor_15,correct,0.924
+if rolling a 2 and rolling a 5 are independent then knowing rolling a 2 happened does not change P(rolling a 5),correct,cor_15,correct,0.977
+I believe if drawing a king and drawing a queen are independent then knownig drawing a king happened does not change P(drawing a queen),correct,cor_15,correct,0.949
+if drwaing a king and drawing a queen are independent then knowing drawing a king happened does not change P(drawing a queen).,correct,cor_15,correct,0.979
+So strong acid means it can burn through anything,strong_weak_confusion,sw_01,correct,0.843
+Pretty sure strong acid means it can burn through anythnig,strong_weak_confusion,sw_01,correct,0.971
+I believe strong acid means it can burn through aynthing.,strong_weak_confusion,sw_01,correct,0.933
+Well storng acid means it can burn through anything,strong_weak_confusion,sw_01,correct,0.888
+strong acid means it can burn through anytihng,strong_weak_confusion,sw_01,correct,0.953
+I think strong acid means it can burn throguh anything.,strong_weak_confusion,sw_01,correct,0.962
+strong acid means it can burn trhough anything,strong_weak_confusion,sw_01,correct,0.941
+Well strong acid means it can burn thorugh anything,strong_weak_confusion,sw_01,correct,0.898
+I reemmber that strong acid means it can burn through anything,strong_weak_confusion,sw_01,correct,0.892
+I believe srtong acid means it can burn through anything,strong_weak_confusion,sw_01,correct,0.945
+I believe conjugate base of HSO4- = H+,conjugate_confusion,cj_03,conjugate_confusion,0.706
+"Basically HCN loses a proton and becomes H+, its conjugate base",conjugate_confusion,cj_04,conjugate_confusion,0.997
+the conj. acid of CH3COO- is CH3COO+,conjugate_confusion,cj_15,conjugate_confusion,0.91
+cnojugate base of CH3COOH = H+.,conjugate_confusion,cj_03,conjugate_confusion,0.99
+"HF loses a proton and becomes H+, its conjugate base",conjugate_confusion,cj_04,conjugate_confusion,0.999
+Basically the conj. acid of SO4 2- is SO4-,conjugate_confusion,cj_15,conjugate_confusion,0.959
+Basically conjugtae base of HBr = H+.,conjugate_confusion,cj_03,conjugate_confusion,0.998
+"Basically HNO3 loses a proton and becomes OH-, its conjugate base.",conjugate_confusion,cj_04,conjugate_confusion,0.956
+I think the conj. acid of HCO3- is CO3 2-,conjugate_confusion,cj_15,correct,0.789
+Well conjugate base of HClO = ClO+,conjugate_confusion,cj_03,conjugate_confusion,0.971
+"I believe HNO2 loses a prtoon and becomes OH-, its conjugate base",conjugate_confusion,cj_04,conjugate_confusion,0.988
+I remember that the conj. acid of OH- is H2,conjugate_confusion,cj_15,conjugate_confusion,0.999
+conjugate base of H2O = H3O+,conjugate_confusion,cj_03,correct,0.986
+"HF loses a prtoon and becomes H+, its conjugate base",conjugate_confusion,cj_04,conjugate_confusion,0.995
+the conj. acid of CO3 2- is H2CO3.,conjugate_confusion,cj_15,conjugate_confusion,0.856
+Basically g(-x) is the same as -g(x) for all functinos,function_notation,fn_05,function_notation,0.943
+I remmeber that to find g(8) you multiply 8 by the function g.,function_notation,fn_08,function_notation,0.89
+Pretty sure to find h(6) you mulitply 6 by the function h,function_notation,fn_08,function_notation,0.844
+Pretty sure h(-x) is the same as -h(x) for all funcitons,function_notation,fn_05,function_notation,0.963
+I think to find h(2) you multiply 2 by the function h.,function_notation,fn_08,function_notation,0.814
+I remember that f(-x) is the same as -f(x) for all funcitons,function_notation,fn_05,function_notation,0.902
+Basically to find h(4) you multiply 4 by the function h,function_notation,fn_08,function_notation,0.929
+f(-x) is the same as -f(x) for all fnuctions.,function_notation,fn_05,function_notation,0.968
+Basically to find h(3) you multiply 3 by the function h,function_notation,fn_08,function_notation,0.938
+Okay so g(-x) is the same as -g(x) for all functions.,function_notation,fn_05,function_notation,0.991
+Well to find g(4) you mulitply 4 by the function g.,function_notation,fn_08,function_notation,0.823
+Well h(-x) is the same as -h(x) for all functions,function_notation,fn_05,function_notation,0.99
+My asnwer is to find h(4) you multiply 4 by the function h,function_notation,fn_08,function_notation,0.958
+Honestly h(-x) is the same as -h(x) for all fucntions,function_notation,fn_05,function_notation,0.864
+So to find g(4) you multpily 4 by the function g,function_notation,fn_08,function_notation,0.934
+f(-x) is the same as -f(x) for all functoins,function_notation,fn_05,function_notation,0.968
+Okay so to find g(4) you multiply 4 by the function g,function_notation,fn_08,function_notation,0.973
+I think h(-x) is the same as -h(x) for all functoins.,function_notation,fn_05,function_notation,0.965
+I think to find f(5) you multiply 5 by the function f,function_notation,fn_08,function_notation,0.991
+f(-x) is the same as -f(x) for all functinos,function_notation,fn_05,function_notation,0.967
+I remember that to find g(9) you multiply 9 by the function g,function_notation,fn_08,function_notation,0.974
+f(-x) is the same as -f(x) for all funtcions,function_notation,fn_05,function_notation,0.939
+I believe to find h(6) you multiply 6 by the function h,function_notation,fn_08,function_notation,0.923
+Okay so g(-x) is the same as -g(x) for all functoins,function_notation,fn_05,function_notation,0.985
+My answer is to find f(9) you multiply 9 by the function f,function_notation,fn_08,function_notation,0.957
+I remember that g(-x) is the same as -g(x) for all fucntions.,function_notation,fn_05,function_notation,0.925
+So to find f(7) you multiply 7 by the function f,function_notation,fn_08,function_notation,0.992
+g(-x) is the same as -g(x) for all funtcions,function_notation,fn_05,function_notation,0.956
+Pretty sure to find h(7) you multiply 7 by the funtcion h,function_notation,fn_08,function_notation,0.948
+So g(-x) is the same as -g(x) for all funcitons.,function_notation,fn_05,function_notation,0.982
+I think to find f(7) you multpily 7 by the function f,function_notation,fn_08,function_notation,0.98
+I beileve to find g(4) you multiply 4 by the function g.,function_notation,fn_08,function_notation,0.922
+I believe to find g(3) you multilpy 3 by the function g,function_notation,fn_08,function_notation,0.801
+I think to find h(8) you mutliply 8 by the function h.,function_notation,fn_08,function_notation,0.717
+Honestly to find g(2) you multiply 2 by the function g,function_notation,fn_08,function_notation,0.947
+So to find g(8) you multiply 8 by the function g,function_notation,fn_08,function_notation,0.97
+Honestly to find g(9) you multilpy 9 by the function g,function_notation,fn_08,function_notation,0.952
+I remember that to find h(9) you multiply 9 by the function h,function_notation,fn_08,function_notation,0.972
+to find g(3) you multiply 3 by the function g.,function_notation,fn_08,function_notation,0.946
+Honestly to find f(2) you multiply 2 by the function f.,function_notation,fn_08,function_notation,0.895
+Okay so to find g(8) you multiply 8 by the functoin g.,function_notation,fn_08,function_notation,0.936
+I remember that to find f(8) you multiply 8 by the function f,function_notation,fn_08,function_notation,0.938
+to find h(3) you mutliply 3 by the function h,function_notation,fn_08,function_notation,0.813
+So to find h(7) you multiply 7 by the function h,function_notation,fn_08,function_notation,0.988
+I believe a coin flip landing heads or tails has probability 1/2 times 1/2 = 1/4,probability_rule_misuse,pr_09,probability_rule_misuse,0.824
+Basically a coin flip landnig heads or tails has probability 1/2 times 1/2 = 1/4,probability_rule_misuse,pr_09,probability_rule_misuse,0.732
+a coin flip landing heads or tails has prboability 1/2 times 1/2 = 1/4,probability_rule_misuse,pr_09,probability_rule_misuse,0.762
+a coin flip landing heads or tails has proabbility 1/2 times 1/2 = 1/4.,probability_rule_misuse,pr_09,probability_rule_misuse,0.786
+a coin flip lnading heads or tails has probability 1/2 times 1/2 = 1/4.,probability_rule_misuse,pr_09,probability_rule_misuse,0.848
+Okay so a coin flip landing heads or tails has probaiblity 1/2 times 1/2 = 1/4,probability_rule_misuse,pr_09,probability_rule_misuse,0.826
+Basically a coin flip landing heads or tails has probabiltiy 1/2 times 1/2 = 1/4,probability_rule_misuse,pr_09,probability_rule_misuse,0.766
+Honestly a coin flip landing heads or tails has probabiilty 1/2 times 1/2 = 1/4,probability_rule_misuse,pr_09,probability_rule_misuse,0.723
+Well a coin flip ladning heads or tails has probability 1/2 times 1/2 = 1/4,probability_rule_misuse,pr_09,probability_rule_misuse,0.818
+a coin flip landing heads or tails has porbability 1/2 times 1/2 = 1/4.,probability_rule_misuse,pr_09,probability_rule_misuse,0.754
+"My answer is if knowing X happened tells you Y did not, then X and Y are independent",independence_confusion,ind_04,correct,0.556
+"if knowing E happened tells you F did not, then E and F are inedpendent",independence_confusion,ind_04,correct,0.925
+"if knowing a red card happened tells you a black card did not, then a red card and a black card are independent",independence_confusion,ind_04,independence_confusion,0.506
+"Basically if knowing drawing a king happened tells you drawing a queen did not, then drawing a king and drawing a queen are independent",independence_confusion,ind_04,correct,0.524
+"I think if knowing A hpapened tells you B did not, then A and B are independent",independence_confusion,ind_04,correct,0.68
+"I think if knowing passing the quiz happened tells you failing the quiz did not, then passing the quiz and failing the quiz are independent",independence_confusion,ind_04,correct,0.608
+"Basically if knowing E happened tells you F did not, then E and F are independent.",independence_confusion,ind_04,independence_confusion,0.686
+"Honestly if knowing getting heads happened tells you getting tails did not, then getting heads and getting tails are independent",independence_confusion,ind_04,correct,0.684
+"if knowing getting heads happened tells you getting tails did not, then getting heads and getting tails are indepednent",independence_confusion,ind_04,correct,0.677
+"So if knowing rolling a 2 happened tells you rolling a 5 did not, then rolling a 2 and rolling a 5 are independent",independence_confusion,ind_04,correct,0.584
+"if knwoing a red card happened tells you a black card did not, then a red card and a black card are independent.",independence_confusion,ind_04,independence_confusion,0.845
+"I believe if knowing passing the quiz happened tells you failing the quiz did not, then passing the quiz and failing the quiz are indepednent",independence_confusion,ind_04,correct,0.658
+"if knowing A happened tells you B did not, then A and B are independent.",independence_confusion,ind_04,correct,0.547
+"I remember that if knowing rolling a 2 happeend tells you rolling a 5 did not, then rolling a 2 and rolling a 5 are independent.",independence_confusion,ind_04,independence_confusion,0.72
+"Pretty sure if knowing psasing the quiz happened tells you failing the quiz did not, then passing the quiz and failing the quiz are independent",independence_confusion,ind_04,correct,0.617
+"I rmeember that if knowing getting heads happened tells you getting tails did not, then getting heads and getting tails are independent",independence_confusion,ind_04,correct,0.507
+"if knowing passing the quiz happened tells you fialing the quiz did not, then passing the quiz and failing the quiz are independent",independence_confusion,ind_04,correct,0.645
+"Pretty sure if knowing getitng heads happened tells you getting tails did not, then getting heads and getting tails are independent.",independence_confusion,ind_04,correct,0.66
+"My answer is if knowing a red card happened tells you a black card did not, then a red card and a black card are indepednent.",independence_confusion,ind_04,independence_confusion,0.566
+"Basically if knowing X happeend tells you Y did not, then X and Y are independent",independence_confusion,ind_04,independence_confusion,0.743
+"Okay so if knowing getting heads happneed tells you getting tails did not, then getting heads and getting tails are independent",independence_confusion,ind_04,correct,0.502
+"So if knowing rolilng a 2 happened tells you rolling a 5 did not, then rolling a 2 and rolling a 5 are independent",independence_confusion,ind_04,correct,0.584
+"Pretty sure if knowing passing the quiz happened tells you failing the quiz did not, then passing the quiz and failing the quiz are idnependent.",independence_confusion,ind_04,correct,0.712
+"I remember that if knowing darwing a king happened tells you drawing a queen did not, then drawing a king and drawing a queen are independent",independence_confusion,ind_04,correct,0.541
+"I believe if knowing A happened tells you B did not, then A and B are indeepndent",independence_confusion,ind_04,correct,0.89
+"if knowing gteting heads happened tells you getting tails did not, then getting heads and getting tails are independent",independence_confusion,ind_04,correct,0.694
+"if knowing a red card happneed tells you a black card did not, then a red card and a black card are independent",independence_confusion,ind_04,independence_confusion,0.65
+"if knwoing drawing a king happened tells you drawing a queen did not, then drawing a king and drawing a queen are independent",independence_confusion,ind_04,independence_confusion,0.542
+"if knowing drawing a king happneed tells you drawing a queen did not, then drawing a king and drawing a queen are independent.",independence_confusion,ind_04,independence_confusion,0.617
+"Basically if knwoing A happened tells you B did not, then A and B are independent",independence_confusion,ind_04,independence_confusion,0.761

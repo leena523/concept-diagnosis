@@ -1,0 +1,121 @@
+response_text,misconception_label,predicted
+The conjugate base of HCl is Cl-,correct,correct
+HF is a weak acid because it only partly ionizes in water,correct,correct
+When NH3 accepts a proton it becomes NH4+ which is its conjugate acid,correct,correct
+HNO3 is strong so it dissociates basically 100% in water,correct,correct
+f(3) just means plug 3 into f and see what comes out,correct,correct
+f(x+2) shifts the graph of f to the left by 2,correct,correct
+For any two events P(A or B) = P(A) + P(B) - P(A and B),correct,correct
+If A and B are independent then P(A and B) = P(A)P(B),correct,correct
+Mutually exclusive events cannot both happen at the same time,correct,correct
+The conjugate acid of H2O is H3O+,correct,correct
+CH3COOH is a weak acid so its conjugate base CH3COO- is a weak base,correct,correct
+If P(A)=0.3 and P(B)=0.5 and they are mutually exclusive then P(A or B) = 0.8,correct,correct
+In f(x) = 2x + 1 the f(x) is the output and x is the input,correct,correct
+Strong acids like H2SO4 ionize completely in water,correct,correct
+P(A|B) means the probability of A given that B already happened,correct,correct
+g(x) + g(2) is not the same as g(x+2) in general,correct,correct
+Cl- is the conjugate base of HCl since HCl lost an H+,correct,correct
+Two events with nonzero probability that are mutually exclusive are dependent,correct,correct
+The Ka of a weak acid is small because only a little of it dissociates,correct,correct
+f(a+b) is generally not equal to f(a) + f(b),correct,correct
+HF is a strong acid because fluorine is so electronegative,strong_weak_confusion,strong_weak_confusion
+HCl is weak because I can only taste a little sour,strong_weak_confusion,strong_weak_confusion
+A strong acid is one with a high concentration,strong_weak_confusion,strong_weak_confusion
+Acetic acid is strong because vinegar burns my nose,strong_weak_confusion,correct
+HNO3 is a weak acid since it has a lot of oxygens,strong_weak_confusion,strong_weak_confusion
+The more concentrated the acid is the stronger it is so 12 M CH3COOH is strong,strong_weak_confusion,strong_weak_confusion
+HCN is a strong acid because it is poisonous,strong_weak_confusion,strong_weak_confusion
+weak acids dont dissociate at all in water,strong_weak_confusion,strong_weak_confusion
+Strong acids have a high pH,strong_weak_confusion,strong_weak_confusion
+HBr is a weak acid since the Br atom is too big to react,strong_weak_confusion,strong_weak_confusion
+H2CO3 is a strong acid because carbonated drinks are really acidic,strong_weak_confusion,strong_weak_confusion
+If an acid is dilute then it must be weak,strong_weak_confusion,strong_weak_confusion
+HClO4 is only a weak acid because it is not very reactive,strong_weak_confusion,strong_weak_confusion
+A weak acid has a pH of 7,strong_weak_confusion,strong_weak_confusion
+strong acid means it will burn through anything and weak acid wont,strong_weak_confusion,correct
+HF is strong since it can etch glass,strong_weak_confusion,strong_weak_confusion
+Weak acids are the same as dilute acids,strong_weak_confusion,strong_weak_confusion
+HNO2 completely dissociates so it is a strong acid,strong_weak_confusion,strong_weak_confusion
+The strength of an acid depends on how much of it you add,strong_weak_confusion,correct
+HI is a weak acid since iodine is not very electronegative,strong_weak_confusion,strong_weak_confusion
+The conjugate base of H2O is H3O+,conjugate_confusion,conjugate_confusion
+the conjugate base of HCl is H+,conjugate_confusion,conjugate_confusion
+The conjugate base of NH4+ is NH2-,conjugate_confusion,correct
+The conjugate acid of NH3 is NH2-,conjugate_confusion,correct
+The conjugate base of HSO4- is H2SO4,conjugate_confusion,correct
+HF turns into F+ after it donates a proton so F+ is the conjugate base,conjugate_confusion,conjugate_confusion
+The conjugate acid of OH- is O2-,conjugate_confusion,correct
+the conjugate base of CH3COOH is CH3COOH2+,conjugate_confusion,conjugate_confusion
+the conjugate base of an acid is what you get when it gains a proton,conjugate_confusion,conjugate_confusion
+The conjugate acid of H2O is OH-,conjugate_confusion,correct
+HNO3 has conjugate base NO3+,conjugate_confusion,correct
+The conjugate acid of Cl- is HClO,conjugate_confusion,correct
+The conjugate base of H2SO4 is SO4 2-,conjugate_confusion,correct
+A conjugate base is just any base that reacts with the acid,conjugate_confusion,correct
+The conjugate base of HCN is CN+,conjugate_confusion,conjugate_confusion
+The conjugate base of H3O+ is H2,conjugate_confusion,correct
+The conjugate acid of HCO3- is CO3 2-,conjugate_confusion,correct
+when HF donates a proton the conjugate base is H+,conjugate_confusion,correct
+conjugate pairs differ by an electron not a proton,conjugate_confusion,conjugate_confusion
+The conjugate acid of NH3 is NH3+,conjugate_confusion,correct
+f(x+2) means f(x) plus 2,function_notation,function_notation
+f(3) means f times 3,function_notation,function_notation
+f(x) means f multiplied by x,function_notation,function_notation
+g(x+1) = g(x) + g(1) for every function,function_notation,function_notation
+f(2x) is just 2f(x),function_notation,function_notation
+f(x+h) = f(x) + h,function_notation,function_notation
+If f(x)=x^2 then f(x+3) = x^2 + 3,function_notation,function_notation
+f(a) f(b) and f(ab) are all the same thing,function_notation,correct
+f(x) = 3x + 1 so f(2) = 3x + 2,function_notation,function_notation
+f^-1(x) means 1/f(x),function_notation,function_notation
+f(g(x)) is the same as f(x) times g(x),function_notation,correct
+the parentheses in f(x) mean multiply,function_notation,function_notation
+f(x) = x^2 so f(a+b) = a^2 + b^2,function_notation,correct
+f(-x) is the same as -f(x) for all functions,function_notation,correct
+f(x) and f are the same thing,function_notation,function_notation
+if f(x) = 2x then f(x+1) = 2x + 1,function_notation,function_notation
+The notation f(4) tells you to multiply 4 by the function,function_notation,function_notation
+f(x)^2 and f(x^2) are the same,function_notation,correct
+f(3x) = 3 + f(x),function_notation,correct
+If f(x) = x^2 then f(2x) = 2x^2,function_notation,correct
+P(A or B) = P(A) + P(B) for any two events,probability_rule_misuse,probability_rule_misuse
+P(A and B) = P(A) + P(B),probability_rule_misuse,probability_rule_misuse
+P(A and B) is always P(A) times P(B),probability_rule_misuse,probability_rule_misuse
+P(A|B) equals P(B|A),probability_rule_misuse,probability_rule_misuse
+if P(A)=0.6 and P(B)=0.7 then P(A or B) is 1.3,probability_rule_misuse,correct
+the probability of at least one head in two flips is 1/2 + 1/2 = 1,probability_rule_misuse,correct
+P(not A) = 1/P(A),probability_rule_misuse,probability_rule_misuse
+P(A and B) = P(A|B) times P(B|A),probability_rule_misuse,correct
+P(A) can be 1.5 if the event is very likely,probability_rule_misuse,correct
+To find P(A or B) you multiply P(A) and P(B),probability_rule_misuse,probability_rule_misuse
+P(A|B) = P(A and B) / P(A),probability_rule_misuse,probability_rule_misuse
+The probability of rolling a 6 or a 5 is 1/6 times 1/6,probability_rule_misuse,correct
+P(A and B) = P(A)/P(B),probability_rule_misuse,correct
+For two dice P(sum is 7 or sum is 8) = 6/36 times 5/36,probability_rule_misuse,correct
+P(A or B) = P(A and B) + P(A),probability_rule_misuse,correct
+P(not A) = P(A) - 1,probability_rule_misuse,probability_rule_misuse
+conditional probability P(A|B) = P(B) / P(A and B),probability_rule_misuse,correct
+P(A and B) = P(A) + P(B) - 1 always,probability_rule_misuse,probability_rule_misuse
+Drawing two cards without replacement P(both aces) = 4/52 times 4/52,probability_rule_misuse,correct
+P(A or B) = 1 - P(A) - P(B),probability_rule_misuse,correct
+If two events are mutually exclusive then they must be independent,independence_confusion,independence_confusion
+independent events cannot happen at the same time,independence_confusion,independence_confusion
+Independent means P(A and B) = 0,independence_confusion,independence_confusion
+disjoint events are independent,independence_confusion,independence_confusion
+If A and B are independent then they are mutually exclusive,independence_confusion,independence_confusion
+Events that cant both occur dont affect each other so they are independent,independence_confusion,correct
+Independent and mutually exclusive mean the same thing,independence_confusion,independence_confusion
+if A happens then B cant happen so A and B are independent,independence_confusion,correct
+Two independent events have an empty intersection,independence_confusion,independence_confusion
+Because rain and sunshine at the same moment cannot occur they are independent,independence_confusion,correct
+If P(A and B) = 0 then A and B are independent,independence_confusion,independence_confusion
+Independent events are events that never overlap,independence_confusion,independence_confusion
+If events are independent knowing A happened means B is impossible,independence_confusion,correct
+Drawing a heart and drawing a spade from one card are independent since both cant happen,independence_confusion,independence_confusion
+mutually exclusive = independent,independence_confusion,independence_confusion
+Independent events are ones where one event prevents the other,independence_confusion,independence_confusion
+A and B being independent means the Venn diagram circles dont touch,independence_confusion,correct
+If two events can happen together they must be dependent,independence_confusion,independence_confusion
+Since a coin cant land heads and tails at once those outcomes are independent,independence_confusion,correct
+Independence means the events exclude each other,independence_confusion,correct

@@ -1,0 +1,9 @@
+label,support,baseline_f1,tfidf_f1,model_f1
+correct,8,0.44,0.62,0.53
+strong_weak_confusion,8,0.77,0.84,0.89
+conjugate_confusion,8,0.4,0.8,0.55
+function_notation,8,0.77,1.0,0.94
+probability_rule_misuse,8,0.4,0.93,0.8
+independence_confusion,7,0.83,0.88,1.0
+MACRO F1,47,0.603,0.844,0.784
+ACCURACY,47,0.574,0.851,0.787

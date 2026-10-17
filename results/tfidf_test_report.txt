@@ -1,0 +1,12 @@
+                         precision    recall  f1-score   support
+
+                correct       0.55      0.80      0.65        20
+  strong_weak_confusion       0.94      0.75      0.83        20
+    conjugate_confusion       0.94      0.80      0.86        20
+      function_notation       0.95      1.00      0.98        20
+probability_rule_misuse       0.94      0.80      0.86        20
+ independence_confusion       1.00      1.00      1.00        20
+
+               accuracy                           0.86       120
+              macro avg       0.89      0.86      0.87       120
+           weighted avg       0.89      0.86      0.87       120

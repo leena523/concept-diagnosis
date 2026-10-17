@@ -1,0 +1,5 @@
+response_text,misconception_label,writer,Unnamed: 3,confidence,guard_would_reject,predicted
+"If two events are independent, the probability of both happening is just P(A)·P(B).",correct,LW,,0.871,False,probability_rule_misuse
+The conjugate base of HCl is HCl? since you just add a negative sign to show it lost something.,conjugate_confusion,LW,,0.961,False,correct
+Conditional probability is P(AB) = P(A) ? P(B) because you remove the part that overlaps.,probability_rule_misuse,LW,,0.926,False,correct
+"Strong bases like NaOH dissociate completely, which is why their solutions have very high pH.",correct,LW2,,0.898,False,strong_weak_confusion

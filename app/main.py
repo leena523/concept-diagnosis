@@ -73,6 +73,31 @@ LOW_CONFIDENCE_FEEDBACK = (
 )
 
 
+OUT_OF_SCOPE_FEEDBACK = (
+    "This does not look like a chemistry or probability/functions answer, so the tool will not "
+    "diagnose it. Try a short statement such as \"The conjugate base of H2O is H3O+\" or "
+    "\"f(x+2) means f(x) plus 2\"."
+)
+
+# Rule-based edge-case check (the model only knows its six labels, so it will confidently label
+# anything). A response is "in scope" if it has formula-like characters or a topic word.
+FORMULA_RE = re.compile(r"[0-9=+^|()/]|[A-Z][a-z]?[+-]")
+DOMAIN_WORDS = {
+    "acid", "acids", "base", "bases", "proton", "protons", "conjugate", "dissociate", "dissociates",
+    "dissociation", "ionize", "ionizes", "ionization", "strong", "weak", "ph", "concentration",
+    "concentrated", "dilute", "molecules", "water", "donates", "accepts", "pair", "pairs",
+    "function", "functions", "input", "output", "inverse", "probability", "probabilities", "event",
+    "events", "independent", "independence", "dependent", "exclusive", "mutually", "disjoint",
+    "given", "conditional", "replacement", "dice", "die", "coin", "card", "cards", "ka",
+}
+
+
+def looks_in_scope(text):
+    if FORMULA_RE.search(text):
+        return True
+    return bool(set(re.findall(r"[a-z]+", text.lower())) & DOMAIN_WORDS)
+
+
 class Classifier:
     """Loads the fine-tuned DistilBERT model once and scores responses."""
 
@@ -132,6 +157,18 @@ def predict(req: PredictRequest):
     text = req.text.strip()
     if not text:
         raise HTTPException(status_code=400, detail="Please enter a student response.")
+
+    if not looks_in_scope(text):
+        return {
+            "label": "out_of_scope",
+            "display_name": "Outside this tool's topics",
+            "confidence": 0.0,
+            "is_confident": False,
+            "out_of_scope": True,
+            "feedback": OUT_OF_SCOPE_FEEDBACK,
+            "runner_up": None,
+            "scores": [],
+        }
 
     scores = classifier.scores(prepare(text))
     ranked = sorted(scores.items(), key=lambda kv: kv[1], reverse=True)

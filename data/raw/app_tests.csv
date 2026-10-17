@@ -1,0 +1,31 @@
+id,group,response_text,expected,notes
+C01,correct,Hydrochloric acid is a strong acid because it dissociates completely in water,correct,
+C02,correct,The conjugate base of HNO3 is NO3-,correct,
+C03,correct,The conjugate acid of NH3 is NH4+,correct,Failed with v2 and v3 during manual testing
+C04,correct,If f(x) = 3x then f(x+2) = 3x + 6,correct,Failed with v2 and v3 during manual testing
+C05,correct,f(2) means the value of the function when x is 2,correct,
+C06,correct,The probability of rolling a 6 on a fair die is 1/6,correct,
+C07,correct,"If A and B are independent, then P(A and B) = P(A) x P(B)",correct,
+C08,correct,Two mutually exclusive events cannot happen at the same time,correct,Similar sentence was flagged on the test set
+C09,correct,Acetic acid is a weak acid because only a small fraction of its molecules ionize,correct,
+C10,correct,P(not A) = 1 - P(A),correct,
+M01,strong_weak_confusion,HF is a strong acid because it is very corrosive,strong_weak_confusion,
+M02,strong_weak_confusion,Concentrated acetic acid is a strong acid,strong_weak_confusion,
+M03,conjugate_confusion,The conjugate base of NH3 is NH4+,conjugate_confusion,
+M04,conjugate_confusion,The conjugate acid of HSO4- is SO4 2-,conjugate_confusion,Right answer is H2SO4
+M05,function_notation,f(x+3) means f(x) + 3,function_notation,
+M06,function_notation,In f(x) = 2x the f and the x get multiplied together,function_notation,
+M07,probability_rule_misuse,P(A or B) = P(A) + P(B) even when A and B overlap,probability_rule_misuse,
+M08,probability_rule_misuse,The probability of getting two heads in a row is 1/2 + 1/2,probability_rule_misuse,
+M09,independence_confusion,If two events are independent then they cannot happen at the same time,independence_confusion,
+M10,independence_confusion,Mutually exclusive events are always independent,independence_confusion,
+O01,off_topic,banana,out_of_scope,
+O02,off_topic,What time is the chemistry exam on Friday?,out_of_scope,Topic word not in the guard's word list
+O03,off_topic,The mitochondria is the powerhouse of the cell,out_of_scope,Different subject
+O04,off_topic,The French Revolution began in 1789,out_of_scope,Contains digits: stress test for the guard
+O05,off_topic,I like basketball,out_of_scope,
+A01,ambiguous,The conjugate base is what is left over,not_sure,Incomplete
+A02,ambiguous,I think it has something to do with protons,not_sure,Vague
+A03,ambiguous,f of x plus 2,not_sure,Incomplete
+A04,ambiguous,P(A or B) is the sum I think,not_sure,Incomplete and hedged
+A05,ambiguous,Independent and mutually exclusive are related somehow,not_sure,Vague

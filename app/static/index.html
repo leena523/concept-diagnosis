@@ -74,13 +74,13 @@
 
   <section class="card" id="result" aria-live="polite" hidden>
     <span class="badge" id="badge"></span>
-    <div class="conf">
+    <div class="conf" id="confrow">
       <span>Confidence</span>
       <div class="bar"><span id="confbar" style="width:0%"></span></div>
       <strong id="confpct">0%</strong>
     </div>
     <p class="feedback" id="feedback"></p>
-    <details>
+    <details id="details">
       <summary>See all scores</summary>
       <div class="scores" id="scores"></div>
     </details>
@@ -124,6 +124,17 @@
   function render(data) {
     $("error").hidden = true;
     const badge = $("badge");
+    if (data.out_of_scope) {
+      badge.textContent = data.display_name;
+      badge.className = "badge unsure";
+      $("confrow").hidden = true;
+      $("details").hidden = true;
+      $("feedback").textContent = data.feedback;
+      $("result").hidden = false;
+      return;
+    }
+    $("confrow").hidden = false;
+    $("details").hidden = false;
     badge.textContent = data.is_confident ? data.display_name : "Not sure";
     badge.className = "badge " + (!data.is_confident ? "unsure" : data.label === "correct" ? "ok" : "warn");
 

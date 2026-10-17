@@ -1,0 +1,48 @@
+response_text,misconception_label,writer,Unnamed: 3,predicted
+"The strong acids fully ionize in water, so HCl will dissociate completely while HF only partially breaks apart.",correct,LW,,correct
+"If two events are independent, the probability of both happening is just P(A)·P(B).",correct,LW,,independence_confusion
+I think H?CO? is a strong acid because carbonic acid sounds dangerous and is in soda.,strong_weak_confusion,LW,,strong_weak_confusion
+"Acetic acid is weak only because the solution I saw had a high pH, so it must not be strong.",strong_weak_confusion,LW,,strong_weak_confusion
+The conjugate base of HCl is HCl? since you just add a negative sign to show it lost something.,conjugate_confusion,LW,,strong_weak_confusion
+"NH? becomes NH?? as its conjugate acid because bases always gain electrons, not protons.",conjugate_confusion,LW,,conjugate_confusion
+"f(x) means f times x, so if x = 3 then f(x) is just 3f.",function_notation,LW,,function_notation
+"Since f(a+b) = f(a) + f(b), plugging in 2 and 5 should give the same as f(7).",function_notation,LW,,function_notation
+For P(A or B) I multiplied the probabilities because OR means both can happen.,probability_rule_misuse,LW,,probability_rule_misuse
+Conditional probability is P(AB) = P(A) ? P(B) because you remove the part that overlaps.,probability_rule_misuse,LW,,probability_rule_misuse
+"Independent events can’t happen at the same time, so if A happens then B must not.",independence_confusion,LW,,independence_confusion
+"Strong bases like NaOH dissociate completely, which is why their solutions have very high pH.",correct,LW2,,strong_weak_confusion
+"If A and B are independent, then knowing A happened doesn’t change the probability of B at all.",correct,LW2,,correct
+"I think HF is strong because it can etch glass, so it must ionize a lot.",strong_weak_confusion,LW2,,strong_weak_confusion
+"A dilute HCl solution is weak since the concentration is low, so it doesn’t act like a strong acid.",strong_weak_confusion,LW2,,strong_weak_confusion
+The conjugate base of H?SO? is SO?²? because you remove both hydrogens at once.,conjugate_confusion,LW2,,conjugate_confusion
+NH?’s conjugate acid is NH?? because bases lose electrons when they react.,conjugate_confusion,LW2,,conjugate_confusion
+"f(x) = x·f, so if x doubles then f(x) doubles too.",function_notation,LW2,,function_notation
+f(3+4) should equal f(3) + f(4) since functions distribute over addition.,function_notation,LW2,,function_notation
+For P(A AND B) you add the probabilities because both events are happening together.,probability_rule_misuse,LW2,,probability_rule_misuse
+P(AB) = P(A)P(B) because conditional probability means multiply.,probability_rule_misuse,LW2,,probability_rule_misuse
+"Independent events can’t overlap, so if they overlap they must be mutually exclusive.",independence_confusion,LW2,,independence_confusion
+"Mutually exclusive events don’t affect each other, so they’re independent by definition.",independence_confusion,LW2,,independence_confusion
+"Weak acids only partially ionize, which is why their Ka values are smaller.",correct,LW3,,correct
+"For independent events, P(A and B) = P(A)·P(B).",correct,LW3,,correct
+HNO? is weak because it’s not as dangerous as sulfuric acid.,strong_weak_confusion,LW3,,strong_weak_confusion
+A concentrated acetic acid solution is strong since it has a lot of acid molecules.,strong_weak_confusion,LW3,,strong_weak_confusion
+The conjugate base of HCl is Cl²? because losing a proton makes it gain two electrons.,conjugate_confusion,LW3,,conjugate_confusion
+The conjugate acid of OH? is O²? because bases lose hydrogen when they react.,conjugate_confusion,LW3,,conjugate_confusion
+"f(x) means f multiplied by x, so f(10) is just 10f.",function_notation,LW3,,function_notation
+"Since f is a function, f(a+b) = f(a) + b automatically.",function_notation,LW3,,function_notation
+For OR probability you multiply because either one can happen.,probability_rule_misuse,LW3,,correct
+P(not A) = 1/P(A) since you flip the probability.,probability_rule_misuse,LW3,,probability_rule_misuse
+"Independent events can’t happen at the same time, so they must be mutually exclusive.",independence_confusion,LW3,,independence_confusion
+Mutually exclusive events are independent because one happening doesn’t change the other.,independence_confusion,LW3,,independence_confusion
+"A conjugate base is formed when an acid donates a proton, leaving behind the deprotonated species.",correct,LW4,,conjugate_confusion
+"If events are independent, the probability of both is the product of their individual probabilities.",correct,LW4,,independence_confusion
+"HCl is weak if the sample has a high pH, so strength depends on the pH you measure.",strong_weak_confusion,LW4,,strong_weak_confusion
+HF must be strong because it’s super dangerous and can burn through materials.,strong_weak_confusion,LW4,,strong_weak_confusion
+The conjugate acid of NH? is NH?? because you just add a plus sign to show it’s acidic.,conjugate_confusion,LW4,,strong_weak_confusion
+H?O’s conjugate base is HO?? since water loses two hydrogens when it reacts.,conjugate_confusion,LW4,,conjugate_confusion
+"f(x) is the same as f·x, so you can divide both sides by f to solve for x.",function_notation,LW4,,function_notation
+f(2+3) = f(2) + f(3) because functions always distribute over addition.,function_notation,LW4,,function_notation
+P(A and B) = P(A) + P(B) because both events are included.,probability_rule_misuse,LW4,,probability_rule_misuse
+Conditional probability is P(AB) = P(A) ? P(B) since you remove the overlap.,probability_rule_misuse,LW4,,probability_rule_misuse
+"Independent means the events can’t overlap, so they’re basically exclusive.",independence_confusion,LW4,,independence_confusion
+"Mutually exclusive means the events don’t influence each other, so they’re independent.",independence_confusion,LW4,,independence_confusion

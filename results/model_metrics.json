@@ -1,11 +1,11 @@
 {
   "val": {
-    "accuracy": 0.7563,
-    "macro_f1": 0.7476
+    "accuracy": 0.7308,
+    "macro_f1": 0.7635
   },
   "test": {
-    "accuracy": 0.9417,
-    "macro_f1": 0.9373
+    "accuracy": 0.8583,
+    "macro_f1": 0.8581
   },
   "settings": {
     "model": "distilbert-base-uncased",
