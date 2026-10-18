@@ -14,8 +14,8 @@ helped interpret errors. I ran every script on my own machine, reviewed the outp
 
 
 ## Links
-- Paper (PDF): `<add>`
-- Recorded demo: `https://youtu.be/yaxhU2MmuZ4`
+- Paper (PDF): `https://www.overleaf.com/project/6ad52b0ba6adc88e17060c4d`
+- Recorded demo: `https://youtu.be/yaxhU2MmuZ4](https://youtu.be/1P49rysH_L8`
 - This repository
 
 ## Repository layout
